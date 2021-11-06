@@ -81,8 +81,8 @@ Marker | Mob | Tank | Misdirect | Notes
 <img src="images/skull.png" width="25" height="25"> | Coilfang Guardian | %OT1% | %HUNTER_1% | Stun/Disarmable
 <img src="images/cross.png" width="25" height="25"> | Coilfang Guardian | %OT1% | %HUNTER_2% | Stun/Disarmable
 <img src="images/square.png" width="25" height="25"> | Coilfang Guardian | %OT2% | N/A | Taunted by %OT1%
-* Mages Polymorph mage platform
-* Locks Fear lock platform
+* Mages Polymorph Coilfang Ambushers on mage platform
+* Locks Fear Coilfang Ambushers on lock platform
 * AoE Coilfang Guardian and Coilfang Ambusher on %OT1%
 * Kill lock platform
 * Kill mage platform
