@@ -9,7 +9,8 @@ Marker | Mob | Tank | Misdirect | Notes
 <img src="images/square.png" width="25" height="25"> | Coilfang Beast-Tamer | %MT%  | N/A | Cleaves
 <img src="images/triangle.png" width="25" height="25"> | Coilfang Hate Screamer | %OT1 | N/A | AoE Silence
 <img src="images/moon.png" width="25" height="25"> | Coilfang Hate Screamer | %OT1 | N/A | AoE Silence
-* All players, pets, and totems need to be stacked. %OT2% sits out to soak charge
+* All players, pets, and totems need to be stacked
+* %OT2% sits out to soak charge
 
 ### Underbog Colossus
 * Ranged play from **max range** to avoid quake (30yds)
