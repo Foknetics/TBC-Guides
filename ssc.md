@@ -8,7 +8,7 @@
 <img src="images/triangle.png" width="25" height="25"> - Coilfang Hate Screamer  
 <img src="images/moon.png" width="25" height="25"> - Coilfang Hate Screamer  
 
-* All players, pets, and totems need to be stacked. 3rd Tank sits out to soak charge
+* All players, pets, and totems need to be stacked. %OT2% sits out to soak charge
 
 ### Underbog Colossus
 * Ranged play from **max range** to avoid quake (30yds)
@@ -28,7 +28,7 @@
     * Person using chicken must have taken damage from the mob
     * **No DPS** until the call to drop combat is made
 * Frost Resistance Totem in %MT% group in P1
-* Nature Resistance Totem in %OT% group in P2
+* Nature Resistance Totem in %OT1% group in P2
 * MD %MT% on pull
 ![Hydross](images/hydross.png)
 * Melee stack in designated area
