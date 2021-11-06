@@ -145,6 +145,8 @@ Marker | Mob | Tank | Misdirect | Notes
 <img src="images/moon.png" width="25" height="25"> | Greyheart Nether-Mage | %MAGE_1% | N/A | Polymorph
 * Melee focus Water Elemental Totems first
 
+**PRE LEO TRASH NEEDS WORK**
+
 ### Leo Packs
 Marker | Mob | Tank | Misdirect | Notes
 -------|-----|------|-----------|------
@@ -154,6 +156,8 @@ Marker | Mob | Tank | Misdirect | Notes
 <img src="images/cross.png" width="25" height="25"> | Greyheart Shield-Bearer | %MT% | %HUNTER_1% | Stack to avoid charge
 <img src="images/moon.png" width="25" height="25"> | Greyheart Nether-Mage | %MAGE_1% | N/A | Polymorph
 * Melee focus Water Elemental Totems first
+
+**PRE LEO TRASH NEEDS WORK**
 
 ## Leotheras The Blind (4m)
 ### Add Phase (~40s)
