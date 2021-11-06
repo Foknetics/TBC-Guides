@@ -1,13 +1,14 @@
 # TBC Raid Guides
 [Serpentshrine Cavern](ssc.md)
+
 [Tempest Keep](tk.md)
 
 
 ## Markdown Examples
 ### Raid Marker Image
-![skull](images/skull.png)
+<img src="images/skull.png" width="25" height="25">
 ```
-![skull](images/skull.png)
+<img src="images/skull.png" width="25" height="25">
 ```
 
 ### Link to another page
