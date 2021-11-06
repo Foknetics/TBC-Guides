@@ -65,7 +65,7 @@ Marker | Mob | Tank | Misdirect | Notes
 * Interrupt Priestess heals
 
 ## The Lurker Below (<4m)
-### Boss Phase
+### Boss Phase (>1m 30s)
 ![Lurker P1](images/lurker-p1.png)
 
 * G1 and G2 melee spread in designated areas
@@ -74,8 +74,8 @@ Marker | Mob | Tank | Misdirect | Notes
 * Spout avoidable by being in the water
     * Don't jump, causes additional water damage ticks
 
-### Add Phase (occurs 1m 30s+ in)
-![Lurker P1](images/lurker-p1.png)
+### Add Phase (until all adds are dead or 60s)
+![Lurker P1](images/lurker-p2.png)
 * Mages Polymorph mage platform
 * Locks Fear lock platform
 * %HUNTER_1% Misdirect <img src="images/skull.png" width="25" height="25"> to %OT1%
