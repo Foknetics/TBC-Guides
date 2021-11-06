@@ -99,17 +99,19 @@ Marker | Mob | Tank | Misdirect | Notes
 * Serpentguard pack
 * Underbog Colossus
 * Serpentguard pack
-* Continue trash order
+* Fathom-Witch Pack
+* Tidecaller Pack
+* Lurker Pack
 
-### Serpentguard pack
+### Serpentguard Pack
 Marker | Mob | Tank | Misdirect | Notes
 -------|-----|------|-----------|------
 <img src="images/skull.png" width="25" height="25"> | Greyheart Tidecaller | %MT% | %HUNTER_1% | Summons water elemental totems
 <img src="images/cross.png" width="25" height="25"> | Coilfang Serpentguard | %OT1% | N/A | Cleaves, spell reflect
 <img src="images/square.png" width="25" height="25"> | Coilfang Serpentguard | %OT1% | %HUNTER_2% | Cleaves, spell reflect
 <img src="images/diamond.png" width="25" height="25"> | Greyheart Skulker | %OT2% | N/A | Kicks nearby casts
-<img src="images/triangle.png" width="25" height="25"> | Greyheart Nether-Mancer | %MAGE_1% | N/A | Polymorph
-<img src="images/moon.png" width="25" height="25"> | Greyheart Nether-Mancer | %MAGE_2% | N/A | Polymorph
+<img src="images/triangle.png" width="25" height="25"> | Greyheart Nether-Mage | %MAGE_1% | N/A | Polymorph
+<img src="images/moon.png" width="25" height="25"> | Greyheart Nether-Mage | %MAGE_2% | N/A | Polymorph
 * Melee focus Water Elemental Totems first
 * Watch poison cleanse while Greyheart Tidecaller is up
 
@@ -125,3 +127,62 @@ Marker | Mob | Tank | Misdirect | Notes
     * Two Colossus Lurkers - Threat drop, tauntable
     * Lots of small adds - AoE
     * Blue Mushrooms - Regenerates mana/health
+
+### Fathom-Witch Pack
+Marker | Mob | Tank | Misdirect | Notes
+-------|-----|------|-----------|------
+<img src="images/skull.png" width="25" height="25"> | Coilfang Fathom-Witch | %MT% | %HUNTER_1% | AoE knock back, watch edges
+<img src="images/cross.png" width="25" height="25"> | Coilfang Fathom-Witch | %OT1% | %HUNTER_2% | AoE knock back, watch edges
+<img src="images/diamond.png" width="25" height="25"> | Coilfang Serpentguard | %OT2% | N/A | Cleaves, spell reflect
+<img src="images/triangle.png" width="25" height="25"> | Coilfang Serpentguard | %OT2% | %HUNTER_3% | Cleaves, spell reflect
+* Grounding Totem for all groups while Coilfang Fahtom-Witch is alive
+
+### Tidecaller Pack
+Marker | Mob | Tank | Misdirect | Notes
+-------|-----|------|-----------|------
+<img src="images/skull.png" width="25" height="25"> | Greyheart Tidecaller | %MT% | N/A | Summons water elemental totems
+<img src="images/cross.png" width="25" height="25"> | Greyheart Tidecaller | %OT1% | N/A | Summons water elemental totems
+<img src="images/moon.png" width="25" height="25"> | Greyheart Nether-Mage | %MAGE_1% | N/A | Polymorph
+* Melee focus Water Elemental Totems first
+
+### Leo Packs
+Marker | Mob | Tank | Misdirect | Notes
+-------|-----|------|-----------|------
+<img src="images/skull.png" width="25" height="25"> | Greyheart Tidecaller | %MT% | N/A | Summons water elemental totems
+<img src="images/cross.png" width="25" height="25"> | Greyheart Tidecaller | %OT1% | N/A | Summons water elemental totems
+<img src="images/circle.png" width="25" height="25"> | Serpentshrine Lurker | %OT2% | N/A | Spawns mushrooms that explode
+<img src="images/cross.png" width="25" height="25"> | Greyheart Shield-Bearer | %MT% | %HUNTER_1% | Stack to avoid charge
+<img src="images/moon.png" width="25" height="25"> | Greyheart Nether-Mage | %MAGE_1% | N/A | Polymorph
+* Melee focus Water Elemental Totems first
+
+## Leotheras The Blind (4m)
+### Add Phase (~40s)
+Marker | Mob | Tank | Misdirect | Notes
+-------|-----|------|-----------|------
+<img src="images/skull.png" width="25" height="25"> | Greyheart Tidecaller | %MT% | %HUNTER_1% | N/A
+<img src="images/cross.png" width="25" height="25"> | Greyheart Tidecaller | %OT1% | %HUNTER_2% | N/A
+<img src="images/triangle.png" width="25" height="25"> | Serpentshrine Lurker | %OT2% | %HUNTER_3% | N/A
+* Pre PWS all melee
+* Melee Nightmare Seed on pull
+* Melee spread around on pull
+
+### Human Phase (1m)
+* Ranged spread out to avoid whirlwind
+* **STOP DPS** at transition
+
+### Demon Phase (1m)
+* Tanked by %WARLOCK_TANK% wearing fire resist gear
+* **STOP DPS** at transition
+
+### Dual Phase (Happens at 15%)
+* Attackable if transitions while in Demon form
+* DPS Focus Human
+* Demon tanked by %WARLOCK_TANK% wearing fire resist gear
+
+### Bloodlusts
+\# of shamans | Groups | Timings
+-------------|--------|---------
+3 | G1, G2, G3 | On Pull
+4 | G1, G2, G3 & G2 | On pull & 3m in
+5 | G1, G2, G3 & G2, G3 | On pull & 3m in
+6 | G1, G2, G3, G4 & G2, G3 | On Pull & 3m in
