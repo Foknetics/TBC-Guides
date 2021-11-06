@@ -100,7 +100,7 @@ Marker | Mob | Tank | Misdirect | Notes
 * Underbog Colossus
 * Serpentguard pack
 * Fathom-Witch Pack
-* Tidecaller Pack
+* Greyheart Pack
 * Lurker Pack
 
 ### Serpentguard Pack
@@ -137,7 +137,7 @@ Marker | Mob | Tank | Misdirect | Notes
 <img src="images/triangle.png" width="25" height="25"> | Coilfang Serpentguard | %OT2% | %HUNTER_3% | Cleaves, spell reflect
 * Grounding Totem for all groups while Coilfang Fahtom-Witch is alive
 
-### Tidecaller Pack
+### Greyheart Pack
 Marker | Mob | Tank | Misdirect | Notes
 -------|-----|------|-----------|------
 <img src="images/skull.png" width="25" height="25"> | Greyheart Tidecaller | %MT% | N/A | Summons water elemental totems
@@ -163,9 +163,9 @@ Marker | Mob | Tank | Misdirect | Notes
 ### Add Phase (~40s)
 Marker | Mob | Tank | Misdirect | Notes
 -------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Greyheart Tidecaller | %MT% | %HUNTER_1% | N/A
-<img src="images/cross.png" width="25" height="25"> | Greyheart Tidecaller | %OT1% | %HUNTER_2% | N/A
-<img src="images/triangle.png" width="25" height="25"> | Serpentshrine Lurker | %OT2% | %HUNTER_3% | N/A
+<img src="images/skull.png" width="25" height="25"> | Greyheart Spellbinder | %MT% | %HUNTER_1% | N/A
+<img src="images/cross.png" width="25" height="25"> | Greyheart Spellbinder | %OT1% | %HUNTER_2% | N/A
+<img src="images/triangle.png" width="25" height="25"> | Serpentshrine Spellbinder | %OT2% | %HUNTER_3% | N/A
 * Pre PWS all melee
 * Melee Nightmare Seed on pull
 * Melee spread around on pull
@@ -190,3 +190,51 @@ Marker | Mob | Tank | Misdirect | Notes
 4 | G1, G2, G3 & G2 | On pull & 3m in
 5 | G1, G2, G3 & G2, G3 | On pull & 3m in
 6 | G1, G2, G3, G4 & G2, G3 | On Pull & 3m in
+
+## Post Leo Trash
+* Greyheart Pack
+* Greyheart Pack
+* Greyheart Mini Pack
+* Underbog Colossus x5
+
+### Greyheart Pack (5 random mobs, mini has 3)
+Kill Order | Mob | Notes
+-----------|-----|------
+1 | Greyheart Tidecaller | Summons water elemental totems
+2 | Greyheart Shield-Bearer | Stack to avoid charge
+3 | Greyheart Skulker | Kicks nearby casts
+4 | Greyheart Nether-Mage | Can be polymorphed, big AoE damage
+* Melee focus Water Elemental Totems
+* Stack if pack includes Greyheart Shield-Bearer
+
+### Underbog Colossus
+* Ranged play from **max range** to avoid quake (30yds)
+    * Heals should only be on the tank/melee
+* Cleanse Rampant Infection (disease)
+* Always hug left, target of Acid Geyser move right
+* Tranquilizing Shot Frenzy
+* On death one of the following will occur:
+    * Nothing
+    * Toxic Pool - Move out, AoE is larger then visual
+    * Two Colossus Lurkers - Threat drop, tauntable
+    * Lots of small adds - AoE
+    * Blue Mushrooms - Regenerates mana/health
+
+## Fathom-Lord Karathress (2m 45s)
+Marker | Mob | Tank | Misdirect | Notes
+-------|-----|------|-----------|------
+<img src="images/skull.png" width="25" height="25"> | Fathom-Guard Tidalvess | %OT1% | %HUNTER_1% | Windfury, big burst potential
+<img src="images/cross.png" width="25" height="25"> | Fathom-Guard Sharkkis | %OT3% | N/A | Summons adds
+<img src="images/circle.png" width="25" height="25"> | Fathom-Guard-Caribdis | %OT2% | %HUNTER_2% | Interupt Heals
+<img src="images/cross.png" width="25" height="25"> | Fathom-Lord Karathress | %MT% | N/A | Move out if approaching 80%
+* Kill order: Spitfire Totem, Sporebats, Lurker, Tidalvess, Sharkkis, Caribdis, Karathress
+* Avoid Tornados
+* Bring Caribdis out from corner when Sharkkis dies
+
+### Bloodlusts
+\# of shamans | Groups | Timings
+-------------|--------|---------
+3 | G1, G2, G3 | On Pull
+4 | G1, G2, G3 & G2 | On pull & 2m in
+5 | G1, G2, G3 & G2, G3 | On pull & 2m in
+6 | G1, G2, G3, G4 & G2, G3 | On Pull & 2m in
