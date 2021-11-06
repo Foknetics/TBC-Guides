@@ -2,11 +2,11 @@
 
 ## Pre Hydross Trash
 ### Coilfang & Bats Pack
-<img src="images/skull.png" width="25" height="25"> - Serpentshrine Sporebat
-<img src="images/cross.png" width="25" height="25"> - Serpentshrine Sporebat
-<img src="images/square.png" width="25" height="25"> - Coilfang Beast-Tamer
-<img src="images/triangle.png" width="25" height="25"> - Coilfang Hate Screamer
-<img src="images/moon.png" width="25" height="25"> - Coilfang Hate Screamer
+<img src="images/skull.png" width="25" height="25"> - Serpentshrine Sporebat  
+<img src="images/cross.png" width="25" height="25"> - Serpentshrine Sporebat  
+<img src="images/square.png" width="25" height="25"> - Coilfang Beast-Tamer  
+<img src="images/triangle.png" width="25" height="25"> - Coilfang Hate Screamer  
+<img src="images/moon.png" width="25" height="25"> - Coilfang Hate Screamer  
 
 * All players, pets, and totems need to be stacked. 3rd Tank sits out to soak charge
 
@@ -42,11 +42,11 @@
 
 ## Post Hydross Trash
 ### Lurker Platforms
-<img src="images/skull.png" width="25" height="25"> - Vashj'ir Honor Guard
-<img src="images/cross.png" width="25" height="25"> - Coilfang Shatterer
-<img src="images/square.png" width="25" height="25"> - Coilfang Shatterer
-<img src="images/triangle.png" width="25" height="25"> - Coilfang Priestess
-<img src="images/moon.png" width="25" height="25"> - Coilfang Priestess
+<img src="images/skull.png" width="25" height="25"> - Vashj'ir Honor Guard  
+<img src="images/cross.png" width="25" height="25"> - Coilfang Shatterer  
+<img src="images/square.png" width="25" height="25"> - Coilfang Shatterer  
+<img src="images/triangle.png" width="25" height="25"> - Coilfang Priestess  
+<img src="images/moon.png" width="25" height="25"> - Coilfang Priestess  
 * Melee Cleave off Skull
 * Tremor fear
 * Interrupt Priestess heals
