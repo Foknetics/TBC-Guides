@@ -232,8 +232,8 @@ Marker | Mob | Tank | Misdirect | Notes
 -------|-----|------|-----------|------
 <img src="images/skull.png" width="25" height="25"> | Fathom-Guard Tidalvess | %OT1% | %HUNTER_1% | Windfury, big burst potential
 <img src="images/cross.png" width="25" height="25"> | Fathom-Guard Sharkkis | %OT3% | N/A | Summons adds
-<img src="images/circle.png" width="25" height="25"> | Fathom-Guard-Caribdis | %OT2% | %HUNTER_2% | Interupt Heals
-<img src="images/cross.png" width="25" height="25"> | Fathom-Lord Karathress | %MT% | N/A | Move out if approaching 80%
+<img src="images/square.png" width="25" height="25"> | Fathom-Guard-Caribdis | %OT2% | %HUNTER_2% | Interupt Heals
+<img src="images/moon.png" width="25" height="25"> | Fathom-Lord Karathress | %MT% | N/A | Move out if approaching 80%
 * Kill order: Spitfire Totem, Sporebats, Lurker, Tidalvess, Sharkkis, Caribdis, Karathress
 * Avoid Tornados
 * Bring Caribdis out from corner when Sharkkis dies
