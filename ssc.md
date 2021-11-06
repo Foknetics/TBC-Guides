@@ -76,12 +76,16 @@ Marker | Mob | Tank | Misdirect | Notes
 
 ### Add Phase (until all adds are dead or 60s)
 ![Lurker P1](images/lurker-p2.png)
+Marker | Mob | Tank | Misdirect | Notes
+-------|-----|------|-----------|------
+<img src="images/skull.png" width="25" height="25"> | Coilfang Guardian | %OT1% | %HUNTER_1% | Stun/Disarmable
+<img src="images/cross.png" width="25" height="25"> | Coilfang Shatterer | %OT1% | %HUNTER_2% | Stun/Disarmable
+<img src="images/square.png" width="25" height="25"> | Coilfang Shatterer | %OT2% | N/A | Taunted by %OT1%
 * Mages Polymorph mage platform
 * Locks Fear lock platform
-* %HUNTER_1% Misdirect <img src="images/skull.png" width="25" height="25"> to %OT1%
-* %HUNTER_2% Misdirects <img src="images/cross.png" width="25" height="25"> to %OT1%
-* %OT1% tanks <img src="images/square.png" width="25" height="25"> towards %OT2%, %OT2% taunts add
-* AoE adds and
+* AoE Coilfang Guardian and Coilfang Ambusher on %OT1%
+* Kill lock platform
+* Kill mage platform
 
 ### Bloodlusts
 \# of shamans | Groups | Timings
