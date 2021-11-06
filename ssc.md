@@ -94,3 +94,34 @@ Marker | Mob | Tank | Misdirect | Notes
 4 | G1, G2, G3 & G2 | On pull & after 1st add phase
 5 | G1, G2, G3 & G2, G3 | On pull & after 1st add phase
 6 | G1, G2, G3, G4 & G2, G3 | On Pull & after 1st add phase
+
+## Post Lurker Trash
+* Serpentguard pack
+* Underbog Colossus
+* Serpentguard pack
+* Continue trash order
+
+### Serpentguard pack
+Marker | Mob | Tank | Misdirect | Notes
+-------|-----|------|-----------|------
+<img src="images/skull.png" width="25" height="25"> | Greyheart Tidecaller | %MT% | %HUNTER_1% | Summons water elemental totems
+<img src="images/cross.png" width="25" height="25"> | Coilfang Serpentguard | %OT1% | N/A | Cleaves, spell reflect
+<img src="images/square.png" width="25" height="25"> | Coilfang Serpentguard | %OT1% | %HUNTER_2% | Cleaves, spell reflect
+<img src="images/diamond.png" width="25" height="25"> | Greyheart Skulker | %OT2% | N/A | Kicks nearby casts
+<img src="images/triangle.png" width="25" height="25"> | Greyheart Nether-Mancer | %MAGE_1% | N/A | Polymorph
+<img src="images/moon.png" width="25" height="25"> | Greyheart Nether-Mancer | %MAGE_2% | N/A | Polymorph
+* Melee focus Water Elemental Totems first
+* Watch poison cleanse while Greyheart Tidecaller is up
+
+### Underbog Colossus
+* Ranged play from **max range** to avoid quake (30yds)
+    * Heals should only be on the tank/melee
+* Cleanse Rampant Infection (disease)
+* Always hug left, target of Acid Geyser move right
+* Tranquilizing Shot Frenzy
+* On death one of the following will occur:
+    * Nothing
+    * Toxic Pool - Move out, AoE is larger then visual
+    * Two Colossus Lurkers - Threat drop, tauntable
+    * Lots of small adds - AoE
+    * Blue Mushrooms - Regenerates mana/health
