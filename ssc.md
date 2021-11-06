@@ -136,7 +136,7 @@ Marker | Mob | Tank | Misdirect | Notes
 <img src="images/cross.png" width="25" height="25"> | Coilfang Fathom-Witch | %OT1% | %HUNTER_2% | AoE knock back, watch edges
 <img src="images/diamond.png" width="25" height="25"> | Coilfang Serpentguard | %OT2% | N/A | Cleaves, spell reflect
 <img src="images/triangle.png" width="25" height="25"> | Coilfang Serpentguard | %OT2% | %HUNTER_3% | Cleaves, spell reflect
-* Grounding Totem for all groups while Coilfang Fahtom-Witch is alive
+* Grounding Totem for all groups while Coilfang Fathom-Witch is alive
 
 ### Greyheart Pack
 Marker | Mob | Tank | Misdirect | Notes
@@ -166,8 +166,6 @@ Marker | Mob | Tank | Misdirect | Notes
 <img src="images/cross.png" width="25" height="25"> | Greyheart Shield-Bearer | %MT% | %HUNTER_1% | Stack to avoid charge
 <img src="images/moon.png" width="25" height="25"> | Greyheart Nether-Mage | %MAGE_1% | N/A | Polymorph
 * Melee focus Water Elemental Totems first
-
-**PRE LEO TRASH NEEDS WORK**
 
 ## Leotheras The Blind (4m)
 ### Add Phase (~40s)
@@ -247,3 +245,41 @@ Marker | Mob | Tank | Misdirect | Notes
 4 | G1, G2, G3 & G2 | On pull & 2m in
 5 | G1, G2, G3 & G2, G3 | On pull & 2m in
 6 | G1, G2, G3, G4 & G2, G3 | On Pull & 2m in
+
+## Post Fathom-Lord Trash
+* Fathom-Witch Pack
+* Tidewalker Pack x4
+
+### Fathom-Witch Pack
+Marker | Mob | Tank | Misdirect | Notes
+-------|-----|------|-----------|------
+<img src="images/skull.png" width="25" height="25"> | Coilfang Fathom-Witch | %MT% | %HUNTER_1% | AoE knock back
+<img src="images/cross.png" width="25" height="25"> | Coilfang Fathom-Witch | %MT% | %HUNTER_2% | AoE knock back
+<img src="images/circle.png" width="25" height="25"> | Coilfang Serpentguard | %OT1% | N/A  | Cleaves, spell reflect
+<img src="images/diamond.png" width="25" height="25"> | Coilfang Shatterer | %OT1% | %HUNTER_3% | Shatter Armor
+<img src="images/triangle.png" width="25" height="25"> | Coilfang Shatterer | %OT2% | N/A | Shatter Armor
+* Grounding Totem for all groups while Coilfang Fathom-Witch is alive
+
+### Tidewalker Pack (5-6 random mobs)
+Kill Order | Mob | Notes
+-----------|-----|------
+1 | Tidewalker Depth-Seer| Uninterruptible tranquility
+2 | Tidewalker Harpooner | Net primary target then drop aggro, tauntable
+2 | Tidewalker Hydromancer | Frost nova, stunnable, silencable
+2 | Tidewalker Shaman | Immune to CC, interruptible
+3 | Tidewalker Warrior | Cleaves, Enrage, Threat Drop
+* Freedom on Tanks
+* Tranquilizing Shot Tidewalker Warriors Frenzy
+
+## Morogrim Tidewalker (3m 30s)
+* **STOP HEALS**, except on MT, on add spawn
+* AoE adds once %OT1% has threat
+* Avoid water bubbles after 25%
+
+### Bloodlusts
+\# of shamans | Groups | Timings
+-------------|--------|---------
+3 | G1, G2, G3 | On Pull
+4 | G1, G2, G3 & G2 | On pull & 3m in
+5 | G1, G2, G3 & G2, G3 | On pull & 3m in
+6 | G1, G2, G3, G4 & G2, G3 | On Pull & 3m in
