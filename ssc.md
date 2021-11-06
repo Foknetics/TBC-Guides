@@ -30,7 +30,9 @@
 * Frost Resistance Totem in %MT% group in P1
 * Nature Resistance Totem in %OT1% group in P2
 * MD %MT% on pull
+
 ![Hydross](images/hydross.png)
+
 * Melee stack in designated area
 * Ranged groups loosely spread in designated area
 * Threat drop on transition **Stop DPS**
