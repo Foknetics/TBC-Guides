@@ -100,8 +100,9 @@ Marker | Mob | Tank | Misdirect | Notes
 * Underbog Colossus
 * Serpentguard pack
 * Fathom-Witch Pack
+* Greyheart Mini Pack
+* Greyheart Pack x 3 + Lurker
 * Greyheart Pack
-* Lurker Pack
 
 ### Serpentguard Pack
 Marker | Mob | Tank | Misdirect | Notes
@@ -145,7 +146,16 @@ Marker | Mob | Tank | Misdirect | Notes
 <img src="images/moon.png" width="25" height="25"> | Greyheart Nether-Mage | %MAGE_1% | N/A | Polymorph
 * Melee focus Water Elemental Totems first
 
-**PRE LEO TRASH NEEDS WORK**
+### Greyheart Pack (5 random mobs, mini has 3)
+Kill Order | Mob | Notes
+-----------|-----|------
+1 | Greyheart Tidecaller | Summons water elemental totems
+2 | Greyheart Shield-Bearer | Stack to avoid charge
+3 | Serpentshrine Lurker | Spawns mushrooms that explode
+4 | Greyheart Skulker | Kicks nearby casts
+5 | Greyheart Nether-Mage | Can be polymorphed, big AoE damage
+* Melee focus Water Elemental Totems
+* Stack if pack includes Greyheart Shield-Bearer
 
 ### Leo Packs
 Marker | Mob | Tank | Misdirect | Notes
@@ -192,8 +202,7 @@ Marker | Mob | Tank | Misdirect | Notes
 6 | G1, G2, G3, G4 & G2, G3 | On Pull & 3m in
 
 ## Post Leo Trash
-* Greyheart Pack
-* Greyheart Pack
+* Greyheart Pack x2
 * Greyheart Mini Pack
 * Underbog Colossus x5
 
@@ -202,8 +211,8 @@ Kill Order | Mob | Notes
 -----------|-----|------
 1 | Greyheart Tidecaller | Summons water elemental totems
 2 | Greyheart Shield-Bearer | Stack to avoid charge
-3 | Greyheart Skulker | Kicks nearby casts
-4 | Greyheart Nether-Mage | Can be polymorphed, big AoE damage
+4 | Greyheart Skulker | Kicks nearby casts
+5 | Greyheart Nether-Mage | Can be polymorphed, big AoE damage
 * Melee focus Water Elemental Totems
 * Stack if pack includes Greyheart Shield-Bearer
 
