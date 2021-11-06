@@ -297,6 +297,7 @@ Marker | Mob | Tank | Misdirect | Notes
 * Grounding Totem for all groups while Coilfang Fathom-Witch is alive
 
 ## Lady Vashj (8m+)
+![Vashj Quandrants](images/vashj.png)
 * Burn all Lay on Hands prior to fight
 
 ### Phase One (75% ~1m 10s)
@@ -305,7 +306,6 @@ Marker | Mob | Tank | Misdirect | Notes
 
 ### Phase Two (4 Cores 5m)
 #### Elementals
-![Vashj Quandrants](images/vashj.png)
 Quadrant | DPS | Healer
 ---------|-----|--------
 1 | %Q1_DPS% | %Q1_HEAL%
@@ -331,6 +331,7 @@ Quadrant | DPS | Healer
 * Clean up adds
 * Drop thornlings, land mines, excess totems on the edges
 * Grounding Totem in %MT% Group
+* Static Charge target needs to move out
 * %OT1% and %OT2% taunt Mind Controlled players out of center
 
 ### Bloodlusts
