@@ -247,10 +247,10 @@ Marker | Mob | Tank | Misdirect | Notes
 6 | G1, G2, G3, G4 & G2, G3 | On Pull & 2m in
 
 ## Post Fathom-Lord Trash
-* Fathom-Witch Pack
+* Shatterer Pack
 * Tidewalker Pack x4
 
-### Fathom-Witch Pack
+### Shatterer Pack
 Marker | Mob | Tank | Misdirect | Notes
 -------|-----|------|-----------|------
 <img src="images/skull.png" width="25" height="25"> | Coilfang Fathom-Witch | %MT% | %HUNTER_1% | AoE knock back
@@ -283,3 +283,60 @@ Kill Order | Mob | Notes
 4 | G1, G2, G3 & G2 | On pull & 3m in
 5 | G1, G2, G3 & G2, G3 | On pull & 3m in
 6 | G1, G2, G3, G4 & G2, G3 | On Pull & 3m in
+
+## Post Morogrim Trash
+* Fathom-Witch Pack
+
+### Fathom-Witch Pack
+Marker | Mob | Tank | Misdirect | Notes
+-------|-----|------|-----------|------
+<img src="images/skull.png" width="25" height="25"> | Coilfang Fathom-Witch | %MT% | %HUNTER_1% | AoE knock back, watch edges
+<img src="images/cross.png" width="25" height="25"> | Coilfang Fathom-Witch | %OT1% | %HUNTER_2% | AoE knock back, watch edges
+<img src="images/diamond.png" width="25" height="25"> | Coilfang Serpentguard | %OT2% | N/A | Cleaves, spell reflect
+<img src="images/triangle.png" width="25" height="25"> | Coilfang Serpentguard | %OT2% | %HUNTER_3% | Cleaves, spell reflect
+* Grounding Totem for all groups while Coilfang Fathom-Witch is alive
+
+## Lady Vashj (8m+)
+* Burn all Lay on Hands prior to fight
+
+### Phase One (75% ~1m 10s)
+* Grounding Totem in %MT% Group
+* Static Charge target needs to move out
+
+### Phase Two (4 Cores 5m)
+#### Elementals
+![Vashj Quandrants](images/vashj.png)
+Quadrant | DPS | Healer
+---------|-----|--------
+1 | %Q1_DPS% | %Q1_HEAL%
+2 | %Q2_DPS% | %Q2_HEAL%
+3 | %Q3_DPS% | %Q3_HEAL%
+4 | %Q4_DPS% | %Q4_HEAL%
+* DPS focus on killing all elementals in their quadrant and looting the tainted core
+* Healer keeps DPS alive and acts as first pass to top of stairs
+* Healer passes to %DUNKER%
+
+#### Coilfang Striders
+* Tanked by %MT% at max range to avoid fear
+* Ranged and melee with ogre suits DPS
+* Look for misdirects to %MT%
+* Stunnable
+
+#### Coilfang Elite
+* Tanked by either %OT1% or %OT2%
+* Non ogre suit melee
+* All DPS when no Strider alive
+
+### Phase Three (2m)
+* Clean up adds
+* Drop thornlings, land mines, excess totems on the edges
+* Grounding Totem in %MT% Group
+* %OT1% and %OT2% taunt Mind Controlled players out of center
+
+### Bloodlusts
+\# of shamans | Groups | Timings
+-------------|--------|---------
+3 | G1, G2, G3 | After add clean up P3
+4 | G1, G2, G3 & G2 | After add clean up & combo Strider/Elite spawn
+5 | G1, G2, G3 & G2, G3 | After add clean up & combo Strider/Elite spawn
+6 | G1, G2, G3, G4 & G2, G3 | After add clean up & combo Strider/Elite spawn
