@@ -101,3 +101,40 @@ Marker | Mob | Tank | Misdirect | Notes
 4 | G1, G2, G3 & G2 | On pull and 1m 40s in
 5 | G1, G2, G3 & G2, G3 | On pull and 1m 40s in
 6 | G1, G2, G3, G4 & G2, G3 | On pull and 1m 40s in
+
+## Solarian Trash
+* Astromancer Patrol
+* Crystalcore Sentinel Pack (raid stack in left cubby to avoid double pull)
+* Squire Pack x2
+* Nether Scryer Patrol x2
+* Solarian Squire Pack
+
+### Astromancer Lord Patrol
+* Melee move out of Whirlwind
+
+### Crystalcore Sentinel Pack
+* Stack mobs
+* Spell reflect Overcharge
+* All heals on melee
+
+### Squire Pack
+* Dispell %MT%
+* Move out of Reign of Fire
+
+### Nether Scryer Patrol
+* CC MC'd players
+* Tremor in case of MC'd fears
+
+### Solarian Squire Pack
+* Use corner of wall to LoS
+* Wait to DPS until all mobs stack in Concecrate
+
+## High Astromancer Solarian (2m 30s)
+Target of target heal
+
+\# of shamans | Groups | Timings
+-------------|--------|---------
+3 | G1, G2, G3 | On pull
+4 | G1, G2, G3 & G2 | On pull and 1m 45s in
+5 | G1, G2, G3 & G2, G3 | On pull and 1m 45s in
+6 | G1, G2, G3, G4 & G2, G3 | On pull and 1m 45s in
