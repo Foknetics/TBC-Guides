@@ -130,8 +130,12 @@ Marker | Mob | Tank | Misdirect | Notes
 * Wait to DPS until all mobs stack in Concecrate
 
 ## High Astromancer Solarian (2m 30s)
-Target of target heal
+* Target of target heal
+* Bring Wrath of the Astromancer to arcane stack
+* Interrupt Solarium Priests and stack with boss
+* Tremor after boss transition at 20%
 
+### Bloodlusts
 \# of shamans | Groups | Timings
 -------------|--------|---------
 3 | G1, G2, G3 | On pull
