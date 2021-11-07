@@ -36,9 +36,9 @@ Marker | Mob | Tank | Misdirect | Notes
 \# of shamans | Groups | Timings
 -------------|--------|---------
 3 | G1, G2, G3 | On Pull
-4 | G1, G2, G3 & G3 | On pull & 1m 30s in
-5 | G1, G2, G3 & G3, G2 | On pull & 1m 30s in
-6 | G1, G2, G3, G4 & G3, G2 | On pull & 1m 30s in
+4 | G1, G2, G3 & G2 | On pull & 1m 30s in
+5 | G1, G2, G3 & G2, G3 | On pull & 1m 30s in
+6 | G1, G2, G3, G4 & G2, G3 | On pull & 1m 30s in
 
 ![Hydross](images/hydross.png)
 
