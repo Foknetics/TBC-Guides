@@ -101,7 +101,7 @@ Marker | Mob | Tank | Misdirect | Notes
 * Serpentguard pack
 * Fathom-Witch Pack
 * Greyheart Mini Pack
-* Greyheart Pack x 3 + Lurker
+* Greyheart Pack + Lurker x3
 * Greyheart Pack
 
 ### Serpentguard Pack

@@ -45,7 +45,7 @@ Marker | Mob | Tank | Misdirect | Notes
 * %OT2% uses a blessing to get on threat table then stays in hallway
 
 ## Al'ar (5m 30s)
-* **Tauntable**
+**Tauntable**
 
 ### Phase One
 * Rotate misdirects on pull
@@ -64,3 +64,41 @@ Marker | Mob | Tank | Misdirect | Notes
 4 | G1, G2, G3 & G2 | After 1st Dive Bomb & on pull
 5 | G1, G2, G3 & G2, G3 | After 1st Dive Bomb & on pull
 6 | G1, G2, G3, G4 & G2, G3 | After 1st Dive Bomb & on pull
+
+## Void Reaver Trash
+* Crystalcore Devastator
+* Crystalcore Sent
+* Crystalcore Sentinel Pack x2
+* Devastator Smith Pack
+* Void Reaver Pack x4
+
+### Crystalcore Devastator
+* Tank with back to wall
+
+### Crystalcore Sentinel Pack
+* Stack mobs
+* Spell reflect Overcharge
+* All heals on melee
+
+### Devastator Smith Pack
+* Polymorph Tempest-Smiths
+* Tank Devastator with back to wall
+* LoS Tempest-Smith into hallway after Devastator dies
+
+### Void Reaver Pack
+* Banish Crystalcore Mechanic
+* Polymorph Tempest-Smiths
+* Stack Sentinels, watch knockback
+* anged play from **max range** to avoid Arcane Explosion
+
+## Void Reaver (2m 25s)
+* Everyone but hunter stack inside Void Reaver
+* Resto druid HoT hunters
+
+### Bloodlusts
+\# of shamans | Groups | Timings
+-------------|--------|---------
+3 | G1, G2, G3 | On pull
+4 | G1, G2, G3 & G2 | On pull and 1m 40s in
+5 | G1, G2, G3 & G2, G3 | On pull and 1m 40s in
+6 | G1, G2, G3, G4 & G2, G3 | On pull and 1m 40s in
