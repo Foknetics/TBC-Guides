@@ -67,7 +67,6 @@ Marker | Mob | Tank | Misdirect | Notes
 
 ## Void Reaver Trash
 * Crystalcore Devastator
-* Crystalcore Sent
 * Crystalcore Sentinel Pack x2
 * Devastator Smith Pack
 * Void Reaver Pack x4
