@@ -46,7 +46,7 @@ Marker | Mob | Tank | Misdirect | Notes
 * Threat drop on transition **Stop DPS**
 * Banish adds
     * <img src="images/skull.png" width="25" height="25"> - KILL
-    * <img src="images/cross.png" width="25" height="25"> - Sealbooper
+    * <img src="images/cross.png" width="25" height="25"> - Irsic
     * <img src="images/square.png" width="25" height="25"> - Dwwee
     * <img src="images/triangle.png" width="25" height="25"> - Aithus
 
