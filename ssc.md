@@ -315,13 +315,13 @@ Quadrant | DPS | Healer
 * Healer passes to Elice/Tik
 
 #### Coilfang Striders
-* Tanked by Mahaka at max range to avoid fear
+* Tanked by Egv at max range to avoid fear
 * Ranged and melee with ogre suits DPS
 * Look for misdirects to Mahaka
 * Stunnable
 
 #### Coilfang Elite
-* Tanked by either Tankadin or %OT2%
+* Tanked by either Tankadin or Mahaka
 * Non ogre suit melee
 * All DPS when no Strider alive
 
