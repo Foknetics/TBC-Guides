@@ -12,45 +12,45 @@
 ### Legionaire Pack
 Marker | Mob | Tank | Misdirect | Notes
 -------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Star Scryer | %MT% | %HUNTER_1% | MC
-<img src="images/cross.png" width="25" height="25"> | Star Scryer | %MT% | %HUNTER_2% | MC
-<img src="images/square.png" width="25" height="25"> | Astromancer | %OT1%  | N/A | Purge Molten Armor
-<img src="images/diamond.png" width="25" height="25"> | Bloodwarder Vindicator | %OT2%  | N/A | HoJ - dispell
-<img src="images/triangle.png" width="25" height="25"> | Bloodwarder Legionaire | %MAGE_1% | N/A | Polymorph
-<img src="images/moon.png" width="25" height="25"> | Bloodwarder Legionaire | %MAGE_2% | N/A | Polymorph
+<img src="images/skull.png" width="25" height="25"> | Star Scryer | Mahaka | Holo/Buddy | MC
+<img src="images/cross.png" width="25" height="25"> | Star Scryer | Mahaka | Vili/Naz | MC
+<img src="images/square.png" width="25" height="25"> | Astromancer | Tankadin  | N/A | Purge Molten Armor
+<img src="images/diamond.png" width="25" height="25"> | Bloodwarder Vindicator | Tankadin  | N/A | HoJ - dispell
+<img src="images/triangle.png" width="25" height="25"> | Bloodwarder Legionaire | Sealbooper | N/A | Polymorph
+<img src="images/moon.png" width="25" height="25"> | Bloodwarder Legionaire | Zanttymage | N/A | Polymorph
 * Ranged stay back to avoid Astromancer Blast Wave
 * Disarm Legionaire after swap
 
 ### Bloodwarder Marshal
 Marker | Mob | Tank | Misdirect | Notes
 -------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Bloodwarder Marshal | %MT% | N/A | Whirlwind - move out
-<img src="images/cross.png" width="25" height="25"> | Bloodwarder Squire | %OT1% | N/A | HoJ - dispell, Heal - interrupt
-<img src="images/square.png" width="25" height="25"> | Bloodwarder Squire | %OT2%  | N/A | HoJ - dispell, Heal - interrupt
+<img src="images/skull.png" width="25" height="25"> | Bloodwarder Marshal | Mahaka | N/A | Whirlwind - move out
+<img src="images/cross.png" width="25" height="25"> | Bloodwarder Squire | Tankadin | N/A | HoJ - dispell, Heal - interrupt
+<img src="images/square.png" width="25" height="25"> | Bloodwarder Squire | Tankadin  | N/A | HoJ - dispell, Heal - interrupt
 * Tank <img src="images/skull.png" width="25" height="25"> on left banner
     * Melee move out of Whirlwind
 * Tank <img src="images/cross.png" width="25" height="25"> and <img src="images/square.png" width="25" height="25"> on right banner
     * Dispell HoJ
 
 ### Hatchling Pack
-* %OT1% and %OT2% tank Hatchlings in right corner of hallway
-* %HEALER_5% towards the entrance to force Tempest Falconers to come in
-* %HUNTER_1% misdirects <img src="images/skull.png" width="25" height="25"> to %HEALER_5%
-* %HUNTER_2% misdirects <img src="images/skull.png" width="25" height="25"> to %HEALER_5%
-    * Once in hallway %MT% tanks Tempest Falconers
+* Tankadin and Tankadin tank Hatchlings in right corner of hallway
+* Creole towards the entrance to force Tempest Falconers to come in
+* Holo/Buddy misdirects <img src="images/skull.png" width="25" height="25"> to Creole
+* Vili/Naz misdirects <img src="images/cross.png" width="25" height="25"> to Creole
+    * Once in hallway Mahaka tanks Tempest Falconers
 
 ### Phoenix-Hawk
 * Mana burn, spam drink on combat drop
-* %MT% tank in corner of outside of door
-* %OT2% uses a blessing to get on threat table then stays in hallway
+* Mahaka tank in corner of outside of door
+* Tankadin uses a blessing to get on threat table then stays in hallway
 
 ## Al'ar (5m 30s)
 **Tauntable**
 
 ### Phase One
 * Rotate misdirects on pull
-* %OT1% stays on opposite side of %MT%
-* %OT2% picks up adds if any spawn
+* Tankadin stays on opposite side of Mahaka
+* Tankadin picks up adds if any spawn
 
 ### Phase Two
 * Taunt swap boss on Melt Armor
@@ -118,7 +118,7 @@ Marker | Mob | Tank | Misdirect | Notes
 * All heals on melee
 
 ### Squire Pack
-* Dispell %MT%
+* Dispell Mahaka
 * Move out of Reign of Fire
 
 ### Nether Scryer Patrol
