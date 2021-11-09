@@ -312,7 +312,7 @@ Quadrant | DPS | Healer
 4 | Naz | Creole
 * DPS focus on killing all elementals in their quadrant and looting the tainted core
 * Healer keeps DPS alive and acts as first pass to top of stairs
-* Healer passes to %DUNKER%
+* Healer passes to Elice/Tik
 
 #### Coilfang Striders
 * Tanked by Mahaka at max range to avoid fear
