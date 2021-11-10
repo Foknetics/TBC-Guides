@@ -7,8 +7,8 @@ Marker | Mob | Tank | Misdirect | Notes
 <img src="images/skull.png" width="25" height="25"> | Serpentshrine Sporebat | Mahaka | Holo/Buddy| Charges furthest enemy
 <img src="images/cross.png" width="25" height="25"> | Serpentshrine Sporebat | Mahaka | N/A | Charges furthest enemy
 <img src="images/square.png" width="25" height="25"> | Coilfang Beast-Tamer | Mahaka  | N/A | Cleaves
-<img src="images/triangle.png" width="25" height="25"> | Coilfang Hate Screamer | Tankadin | Vili/Naz | AoE Silence
-<img src="images/moon.png" width="25" height="25"> | Coilfang Hate Screamer | Tankadin | N/A | AoE Silence
+<img src="images/diamond.png" width="25" height="25"> | Coilfang Hate Screamer | Tankadin | Vili/Naz | AoE Silence
+<img src="images/circle.png" width="25" height="25"> | Coilfang Hate Screamer | Tankadin | N/A | AoE Silence
 * All players, pets, and totems need to be stacked
 * %OT2% sits out to soak charge
 
