@@ -237,6 +237,7 @@ Unmarked | Fathom-Lord Karathress | %MT% | N/A | Move out if approaching 80%
 * **STOP HEALS**, except on %MT%, on add spawn
 * AoE adds once %OT1%/%OT2% has threat
 * Avoid water bubbles after 25%
+* %HEALER_5% heal watery graves
 
 ### Bloodlusts
 \# of shamans | Groups | Timings
@@ -247,16 +248,13 @@ Unmarked | Fathom-Lord Karathress | %MT% | N/A | Move out if approaching 80%
 6 | G1, G2, G3, G4 & G2, G3 | On Pull & 3m in
 
 ## Post Morogrim Trash
-* Fathom-Witch Pack
-
 ### Fathom-Witch Pack
-Marker | Mob | Tank | Misdirect | Notes
--------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Coilfang Fathom-Witch | %MT% | %HUNTER_1% | AoE knock back, watch edges
-<img src="images/cross.png" width="25" height="25"> | Coilfang Fathom-Witch | %OT1% | %HUNTER_2% | AoE knock back, watch edges
-<img src="images/diamond.png" width="25" height="25"> | Coilfang Serpentguard | %OT2% | N/A | Cleaves, spell reflect
-<img src="images/triangle.png" width="25" height="25"> | Coilfang Serpentguard | %OT2% | %HUNTER_3% | Cleaves, spell reflect
+* AoE knock back watch edges
 * Grounding Totem for all groups while Coilfang Fathom-Witch is alive
+* Focus <img src="images/skull.png" width="25" height="25"> Fathom-Witch on %MT%
+* <img src="images/cross.png" width="25" height="25"> Fathom-Witch on %OT1%
+* <img src="images/diamond.png" width="25" height="25"> & <img src="images/star.png" width="25" height="25"> Serpentguard on %OT2%
+    * Face away for cleave
 
 ## Lady Vashj (8m+)
 ![Vashj Quandrants](images/vashj.png)
@@ -295,6 +293,7 @@ Quadrant | DPS | Healer
 * Grounding Totem in %MT% Group
 * Static Charge target needs to move out
 * %OT1% and %OT2% taunt Mind Controlled players out of center
+* Freedom %MT%
 
 ### Bloodlusts
 \# of shamans | Groups | Timings
