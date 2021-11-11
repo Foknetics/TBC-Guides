@@ -42,13 +42,9 @@ B3 | %WARLOCK_3%
 
 ## Post Hydross Trash
 ### Lurker Platforms (6 platforms ~10m)
-Marker | Mob | Tank | Misdirect | Notes
--------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Vashj'ir Honor Guard | %MT% | %HUNTER_1% | AoE fear & knock back
-<img src="images/cross.png" width="25" height="25"> | Coilfang Shatterer | %OT1% | N/A | Armor Sunder, spell reflectable
-<img src="images/square.png" width="25" height="25"> | Coilfang Shatterer | %OT2% | N/A | Armor Sunder, spell reflectable
-<img src="images/triangle.png" width="25" height="25"> | Coilfang Priestess | %OT1% | %HUNTER_2% | Heal, interruptable
-<img src="images/moon.png" width="25" height="25"> | Coilfang Priestess | %OT2% | %HUNTER_3% | Heal, interruptable
+* <img src="images/skull.png" width="25" height="25"> Vashj'ir Honor Guard on %MT%
+* %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
+* %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
 * Melee Cleave off Skull
 * Tremor fear
 * Interrupt Priestess heals
@@ -58,31 +54,39 @@ Marker | Mob | Tank | Misdirect | Notes
 ![Lurker P1](images/lurker-p1.png)
 
 * G1 and G2 melee spread in designated areas
-    * Jump into Whirl to avoid knock back out of range
+    * Step into water pre-whirl to avoid knock back out of range
 * Raid spread to avoid Geyser
 * Spout avoidable by being in the water
     * Don't jump, causes additional water damage ticks
 
 ### Add Phase (until all adds are dead or 60s)
+Focus | Healer
+---------|--------
+%MT% | %HEALER_1%
+G1 | %HEALER_2%
+G2 | %HEALER_3%
+G3 | %HEALER_4%
+G4 | %HEALER_5%
+
 ![Lurker P1](images/lurker-p2.png)
 Marker | Mob | Tank | Misdirect | Notes
 -------|-----|------|-----------|------
 <img src="images/skull.png" width="25" height="25"> | Coilfang Guardian | %OT1% | %HUNTER_1% | Stun/Disarmable
 <img src="images/cross.png" width="25" height="25"> | Coilfang Guardian | %OT1% | %HUNTER_2% | Stun/Disarmable
 <img src="images/square.png" width="25" height="25"> | Coilfang Guardian | %OT2% | N/A | Taunted by %OT1%
+* Disarm Guardians
 * Mages Polymorph Coilfang Ambushers on mage platform
 * Locks Fear Coilfang Ambushers on lock platform
 * AoE Coilfang Guardian and Coilfang Ambusher on %OT1%
-* Kill lock platform
-* Kill mage platform
+* Kill lock platform then mage platform
 
 ### Bloodlusts
 \# of shamans | Groups | Timings
 -------------|--------|---------
 3 | G1, G2, G3 | On Pull
 4 | G1, G2, G3 & G2 | On pull & after 1st add phase
-5 | G1, G2, G3 & G2, G3 | On pull & after 1st add phase
-6 | G1, G2, G3, G4 & G2, G3 | On Pull & after 1st add phase
+5 | G1, G2, G3 & G2, G4 | On pull & after 1st add phase
+6 | G1, G2, G3, G4 & G2, G4 | On Pull & after 1st add phase
 
 ## Post Lurker Trash
 * Serpentguard pack
