@@ -45,7 +45,7 @@ B3 | %WARLOCK_3%
 * <img src="images/skull.png" width="25" height="25"> Vashj'ir Honor Guard on %MT%
 * %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
 * %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
-* Melee Cleave off Skull
+* Melee Cleave off <img src="images/skull.png" width="25" height="25">
 * Tremor fear
 * Interrupt Priestess heals
 
