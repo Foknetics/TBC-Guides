@@ -2,54 +2,43 @@
 
 ## Pre Hydross Trash
 ### Coilfang & Bats Pack
-Marker | Mob | Tank | Misdirect | Notes
--------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Serpentshrine Sporebat | %MT% | %HUNTER_1% | Charges furthest enemy
-<img src="images/cross.png" width="25" height="25"> | Serpentshrine Sporebat | %MT% | %HUNTER_2% | Charges furthest enemy
-<img src="images/square.png" width="25" height="25"> | Coilfang Beast-Tamer | %MT%  | N/A | Cleaves
-<img src="images/triangle.png" width="25" height="25"> | Coilfang Hate Screamer | %OT1% | N/A | AoE Silence
-<img src="images/moon.png" width="25" height="25"> | Coilfang Hate Screamer | %OT1% | N/A | AoE Silence
+* Focus Sporebat then Hate Screamer
+* %MT% grab Beast-Tamer
 * All players, pets, and totems need to be stacked
 * %OT2% sits out to soak charge
 
 ### Underbog Colossus
 * Ranged play from **max range** to avoid quake (30yds)
     * Heals should only be on the tank/melee
-* Cleanse Rampant Infection (disease)
 * Always hug left, target of Acid Geyser move right
+* Cleanse Rampant Infection (disease)
 * Tranquilizing Shot Frenzy
-* On death one of the following will occur:
-    * Nothing
-    * Toxic Pool - Move out, AoE is larger then visual
-    * Two Colossus Lurkers - Threat drop, tauntable
-    * Lots of small adds - AoE
-    * Blue Mushrooms - Regenerates mana/health
 
-## Hydross (~2m 15s)
-* Use pathing mobs to proc chickens
-    * Person using chicken must have taken damage from the mob
-    * **No DPS** until the call to drop combat is made
+## Hydross (~2m 5s)
 * Frost Resistance Totem in %MT% group in P1
 * Nature Resistance Totem in %OT1% group in P2
 * MD %MT% on pull
-### Bloodlusts
-\# of shamans | Groups | Timings
--------------|--------|---------
-3 | G1, G2, G3 | On Pull
-4 | G1, G2, G3 & G2 | On pull & 1m 30s in
-5 | G1, G2, G3 & G2, G3 | On pull & 1m 30s in
-6 | G1, G2, G3, G4 & G2, G3 | On pull & 1m 30s in
+* Threat drop on transition **Stop DPS**
+
+Banish | Warlock
+-------|--------
+B1 | %WARLOCK_1%
+B2 | %WARLOCK_2%
+B3 | %WARLOCK_3%
+Kill 4th add <img src="images/skull.png" width="25" height="25">
 
 ![Hydross](images/hydross.png)
 
 * Melee stack in designated area
 * Ranged groups loosely spread in designated area
-* Threat drop on transition **Stop DPS**
-* Banish adds
-    * <img src="images/skull.png" width="25" height="25"> - %WARLOCK_1%
-    * <img src="images/cross.png" width="25" height="25"> - %WARLOCK_2%
-    * <img src="images/square.png" width="25" height="25"> - %WARLOCK_3%
-    * <img src="images/triangle.png" width="25" height="25"> - %WARLOCK_4%
+
+### Bloodlusts
+\# of shamans | Groups | Timings
+-------------|--------|---------
+3 | G1, G2, G3 | On Pull
+4 | G1, G2, G3, G4 | On pull & 1m 25s in
+5 | G1, G2, G3, G4 & G2 | On pull & 1m 25s in
+6 | G1, G2, G3, G4 & G2, G3 | On pull & 1m 25s in
 
 ## Post Hydross Trash
 ### Lurker Platforms (6 platforms ~10m)
