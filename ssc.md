@@ -87,75 +87,57 @@ Raid | %HEALER_5%
 6 | G1, G2, G3, G4 & G2, G4 | On Pull & after 1st add phase
 
 ## Post Lurker Trash
-* Serpentguard pack
-* Underbog Colossus
-* Serpentguard pack
-* Fathom-Witch Pack
-* Greyheart Mini Pack
 * Greyheart Pack + Lurker x3
 * Greyheart Pack
 
 ### Serpentguard Pack
-Marker | Mob | Tank | Misdirect | Notes
--------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Greyheart Tidecaller | %MT% | %HUNTER_1% | Summons water elemental totems
-<img src="images/cross.png" width="25" height="25"> | Coilfang Serpentguard | %OT1% | N/A | Cleaves, spell reflect
-<img src="images/square.png" width="25" height="25"> | Coilfang Serpentguard | %OT1% | %HUNTER_2% | Cleaves, spell reflect
-<img src="images/diamond.png" width="25" height="25"> | Greyheart Skulker | %OT2% | N/A | Kicks nearby casts
-<img src="images/triangle.png" width="25" height="25"> | Greyheart Nether-Mage | %MAGE_1% | N/A | Polymorph
-<img src="images/moon.png" width="25" height="25"> | Greyheart Nether-Mage | %MAGE_2% | N/A | Polymorph
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
+* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25">/<img src="images/moon.png" width="25" height="25">
+* %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
+* %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
 * Melee focus Water Elemental Totems first
 * Watch poison cleanse while Greyheart Tidecaller is up
 
 ### Underbog Colossus
 * Ranged play from **max range** to avoid quake (30yds)
     * Heals should only be on the tank/melee
-* Cleanse Rampant Infection (disease)
 * Always hug left, target of Acid Geyser move right
+* Cleanse Rampant Infection (disease)
 * Tranquilizing Shot Frenzy
-* On death one of the following will occur:
-    * Nothing
-    * Toxic Pool - Move out, AoE is larger then visual
-    * Two Colossus Lurkers - Threat drop, tauntable
-    * Lots of small adds - AoE
-    * Blue Mushrooms - Regenerates mana/health
+
+### Serpentguard Pack
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
+* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25">/<img src="images/moon.png" width="25" height="25">
+* %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
+* %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
+* Melee focus Water Elemental Totems first
+* Watch poison cleanse while Greyheart Tidecaller is up
 
 ### Fathom-Witch Pack
-Marker | Mob | Tank | Misdirect | Notes
--------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Coilfang Fathom-Witch | %MT% | %HUNTER_1% | AoE knock back, watch edges
-<img src="images/cross.png" width="25" height="25"> | Coilfang Fathom-Witch | %OT1% | %HUNTER_2% | AoE knock back, watch edges
-<img src="images/diamond.png" width="25" height="25"> | Coilfang Serpentguard | %OT2% | N/A | Cleaves, spell reflect
-<img src="images/triangle.png" width="25" height="25"> | Coilfang Serpentguard | %OT2% | %HUNTER_3% | Cleaves, spell reflect
+* AoE knock back watch edges
 * Grounding Totem for all groups while Coilfang Fathom-Witch is alive
+* Focus <img src="images/skull.png" width="25" height="25"> Fathom-Witch on %MT%
+* <img src="images/cross.png" width="25" height="25"> Fathom-Witch on %OT1%
+* <img src="images/diamond.png" width="25" height="25"> & <img src="images/star.png" width="25" height="25"> Serpentguard on %OT2%
+    * Face away for cleave
 
-### Greyheart Pack
-Marker | Mob | Tank | Misdirect | Notes
--------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Greyheart Tidecaller | %MT% | N/A | Summons water elemental totems
-<img src="images/cross.png" width="25" height="25"> | Greyheart Tidecaller | %OT1% | N/A | Summons water elemental totems
-<img src="images/moon.png" width="25" height="25"> | Greyheart Nether-Mage | %MAGE_1% | N/A | Polymorph
+### Greyheart Double Pull
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
+* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25">/<img src="images/moon.png" width="25" height="25"> Nether-Mage in 2nd pack
+* Loose spread for Range of Fire
 * Melee focus Water Elemental Totems first
 
-### Greyheart Pack (5 random mobs, mini has 3)
-Kill Order | Mob | Notes
------------|-----|------
-1 | Greyheart Tidecaller | Summons water elemental totems
-2 | Greyheart Shield-Bearer | Stack to avoid charge
-3 | Serpentshrine Lurker | Spawns mushrooms that explode
-4 | Greyheart Skulker | Kicks nearby casts
-5 | Greyheart Nether-Mage | Can be polymorphed, big AoE damage
-* Melee focus Water Elemental Totems
-* Stack if pack includes Greyheart Shield-Bearer
+### Greyheart + Lurker Pack (twice)
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
+* Stack for mushrooms, move with %MT%
+* %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
+* %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
 
-### Leo Packs
-Marker | Mob | Tank | Misdirect | Notes
--------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Greyheart Tidecaller | %MT% | N/A | Summons water elemental totems
-<img src="images/cross.png" width="25" height="25"> | Greyheart Tidecaller | %OT1% | N/A | Summons water elemental totems
-<img src="images/circle.png" width="25" height="25"> | Serpentshrine Lurker | %OT2% | N/A | Spawns mushrooms that explode
-<img src="images/cross.png" width="25" height="25"> | Greyheart Shield-Bearer | %MT% | %HUNTER_1% | Stack to avoid charge
-<img src="images/moon.png" width="25" height="25"> | Greyheart Nether-Mage | %MAGE_1% | N/A | Polymorph
+### Greyheart Pack
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
+* Stack to avoid Charge, move with %MT%
+* %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
+* %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
 * Melee focus Water Elemental Totems first
 
 ## Leotheras The Blind (4m)
@@ -164,10 +146,13 @@ Marker | Mob | Tank | Misdirect | Notes
 -------|-----|------|-----------|------
 <img src="images/skull.png" width="25" height="25"> | Greyheart Spellbinder | %MT% | %HUNTER_1% | N/A
 <img src="images/cross.png" width="25" height="25"> | Greyheart Spellbinder | %OT1% | %HUNTER_2% | N/A
-<img src="images/triangle.png" width="25" height="25"> | Serpentshrine Spellbinder | %OT2% | %HUNTER_3% | N/A
+<img src="images/square.png" width="25" height="25"> | Greyheart Spellbinder | %OT2% | %HUNTER_3% | N/A
 * Pre PWS all melee
 * Melee Nightmare Seed on pull
 * Melee spread around on pull
+
+### Phase Transition Misdirect Rotation
+%HUNTER_4%, %HUNTER_1%, %HUNTER_2%, %HUNTER_3%
 
 ### Human Phase (1m)
 * Ranged spread out to avoid whirlwind
