@@ -53,6 +53,7 @@ B3 | %WARLOCK_3%
 ### Boss Phase (>1m 30s)
 ![Lurker P1](images/lurker-p1.png)
 
+* G1 Shaman stay as close to %MT% as possible for totems
 * G1 and G2 melee spread in designated areas
     * Step into water pre-whirl to avoid knock back out of range
 * Raid spread to avoid Geyser
@@ -60,14 +61,6 @@ B3 | %WARLOCK_3%
     * Don't jump, causes additional water damage ticks
 
 ### Add Phase (until all adds are dead or 60s)
-Focus | Healer
----------|--------
-%MT% | %HEALER_1%
-G1 | %HEALER_2%
-G2 | %HEALER_3%
-G3 | %HEALER_4%
-G4 | %HEALER_5%
-
 ![Lurker P1](images/lurker-p2.png)
 Marker | Mob | Tank | Misdirect | Notes
 -------|-----|------|-----------|------
@@ -79,6 +72,11 @@ Marker | Mob | Tank | Misdirect | Notes
 * Locks Fear Coilfang Ambushers on lock platform
 * AoE Coilfang Guardian and Coilfang Ambusher on %OT1%
 * Kill lock platform then mage platform
+
+Focus | Healer
+------|--------
+%OT1% | %HEALER_1%, %HEALER_2%, %HEALER_3%, %HEALER_4%
+Raid | %HEALER_5%
 
 ### Bloodlusts
 \# of shamans | Groups | Timings
