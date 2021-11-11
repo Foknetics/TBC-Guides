@@ -176,40 +176,34 @@ Marker | Mob | Tank | Misdirect | Notes
 6 | G1, G2, G3, G4 & G2, G3 | On Pull & 3m in
 
 ## Post Leo Trash
-* Greyheart Pack x2
-* Greyheart Mini Pack
-* Underbog Colossus x5
+### Greyheart Pack
+* LoS on wall corner
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
+* Stack to avoid Charge, move with %MT%
+* %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
+* %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
+* Melee focus Water Elemental Totems first
 
-### Greyheart Pack (5 random mobs, mini has 3)
-Kill Order | Mob | Notes
------------|-----|------
-1 | Greyheart Tidecaller | Summons water elemental totems
-2 | Greyheart Shield-Bearer | Stack to avoid charge
-4 | Greyheart Skulker | Kicks nearby casts
-5 | Greyheart Nether-Mage | Can be polymorphed, big AoE damage
-* Melee focus Water Elemental Totems
-* Stack if pack includes Greyheart Shield-Bearer
+### Greyheart Three Pack (twice)
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
+* <img src="images/cross.png" width="25" height="25"> on %OT1%
+* <img src="images/square.png" width="25" height="25"> on %OT2%
 
-### Underbog Colossus
+### Underbog Colossus (5 times)
 * Ranged play from **max range** to avoid quake (30yds)
     * Heals should only be on the tank/melee
-* Cleanse Rampant Infection (disease)
 * Always hug left, target of Acid Geyser move right
+* Cleanse Rampant Infection (disease)
 * Tranquilizing Shot Frenzy
-* On death one of the following will occur:
-    * Nothing
-    * Toxic Pool - Move out, AoE is larger then visual
-    * Two Colossus Lurkers - Threat drop, tauntable
-    * Lots of small adds - AoE
-    * Blue Mushrooms - Regenerates mana/health
+* Look to move Colossus ahead of potential puddle
 
 ## Fathom-Lord Karathress (2m 45s)
 Marker | Mob | Tank | Misdirect | Notes
 -------|-----|------|-----------|------
 <img src="images/skull.png" width="25" height="25"> | Fathom-Guard Tidalvess | %OT1% | %HUNTER_1% | Windfury, big burst potential
-<img src="images/cross.png" width="25" height="25"> | Fathom-Guard Sharkkis | %OT3% | N/A | Summons adds
-<img src="images/square.png" width="25" height="25"> | Fathom-Guard-Caribdis | %OT2% | %HUNTER_2% | Interupt Heals
-<img src="images/moon.png" width="25" height="25"> | Fathom-Lord Karathress | %MT% | N/A | Move out if approaching 80%
+<img src="images/cross.png" width="25" height="25"> | Fathom-Guard Sharkkis | %OT2% | N/A | Summons adds
+<img src="images/square.png" width="25" height="25"> | Fathom-Guard-Caribdis | %OT3% | %HUNTER_2% | Interupt Heals
+Unmarked | Fathom-Lord Karathress | %MT% | N/A | Move out if approaching 80%
 * Kill order: Spitfire Totem, Sporebats, Lurker, Tidalvess, Sharkkis, Caribdis, Karathress
 * Avoid Tornados
 * Bring Caribdis out from corner when Sharkkis dies
@@ -227,29 +221,21 @@ Marker | Mob | Tank | Misdirect | Notes
 * Tidewalker Pack x4
 
 ### Shatterer Pack
-Marker | Mob | Tank | Misdirect | Notes
--------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Coilfang Fathom-Witch | %MT% | %HUNTER_1% | AoE knock back
-<img src="images/cross.png" width="25" height="25"> | Coilfang Fathom-Witch | %MT% | %HUNTER_2% | AoE knock back
-<img src="images/circle.png" width="25" height="25"> | Coilfang Serpentguard | %OT1% | N/A  | Cleaves, spell reflect
-<img src="images/diamond.png" width="25" height="25"> | Coilfang Shatterer | %OT1% | %HUNTER_3% | Shatter Armor
-<img src="images/triangle.png" width="25" height="25"> | Coilfang Shatterer | %OT2% | N/A | Shatter Armor
+* Focus <img src="images/skull.png" width="25" height="25"> Fathom-Witch on %MT%
+* <img src="images/cross.png" width="25" height="25"> Fathom-Witch on %OT1%
+* %HUNTER_1% misdirect <img src="images/circle.png" width="25" height="25"> Serpentguard to %MT%
+* Shatterers on %OT2%
+    * Face away for cleave
 * Grounding Totem for all groups while Coilfang Fathom-Witch is alive
 
 ### Tidewalker Pack (5-6 random mobs)
-Kill Order | Mob | Notes
------------|-----|------
-1 | Tidewalker Depth-Seer| Uninterruptible tranquility
-2 | Tidewalker Harpooner | Net primary target then drop aggro, tauntable
-2 | Tidewalker Hydromancer | Frost nova, stunnable, silencable
-2 | Tidewalker Shaman | Immune to CC, interruptible
-3 | Tidewalker Warrior | Cleaves, Enrage, Threat Drop
-* Freedom on Tanks
+* Single target Depth-Seer on Tranquility
 * Tranquilizing Shot Tidewalker Warriors Frenzy
+* Freedom on Tanks
 
 ## Morogrim Tidewalker (3m 30s)
-* **STOP HEALS**, except on MT, on add spawn
-* AoE adds once %OT1% has threat
+* **STOP HEALS**, except on %MT%, on add spawn
+* AoE adds once %OT1%/%OT2% has threat
 * Avoid water bubbles after 25%
 
 ### Bloodlusts
