@@ -20,12 +20,12 @@
 * MD %MT% on pull
 * Threat drop on transition **Stop DPS**
 
-Banish | Warlock
+Market | Warlock
 -------|--------
 B1 | %WARLOCK_1%
 B2 | %WARLOCK_2%
 B3 | %WARLOCK_3%
-Kill 4th add <img src="images/skull.png" width="25" height="25">
+<img src="images/skull.png" width="25" height="25"> | kill
 
 ![Hydross](images/hydross.png)
 
