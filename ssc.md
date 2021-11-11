@@ -120,7 +120,7 @@ Raid | %HEALER_5%
 
 ### Greyheart Double Pull
 * Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
-* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25">/<img src="images/moon.png" width="25" height="25"> Nether-Mage in 2nd pack
+* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25"> or <img src="images/moon.png" width="25" height="25"> Nether-Mage in 2nd pack
 * Loose spread for Range of Fire
 * Melee focus Water Elemental Totems first
 
