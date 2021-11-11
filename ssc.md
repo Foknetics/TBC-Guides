@@ -89,7 +89,7 @@ Raid | %HEALER_5%
 ## Post Lurker Trash
 ### Serpentguard Pack
 * Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
-* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25">/<img src="images/moon.png" width="25" height="25">
+* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25"> or <img src="images/moon.png" width="25" height="25">
 * %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
 * %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
 * Melee focus Water Elemental Totems first
@@ -104,7 +104,7 @@ Raid | %HEALER_5%
 
 ### Serpentguard Pack
 * Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
-* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25">/<img src="images/moon.png" width="25" height="25">
+* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25"> or <img src="images/moon.png" width="25" height="25">
 * %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
 * %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
 * Melee focus Water Elemental Totems first
