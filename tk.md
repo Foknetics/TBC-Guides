@@ -31,7 +31,7 @@
 * %OT1% and %OT2% tank Hatchlings in right corner of hallway
 * %HEALER_4% and %HEALER_5% runs towards the entrance to force Tempest Falconers to come in
 * %HUNTER_1% misdirects <img src="images/skull.png" width="25" height="25"> to %HEALER_4%
-* %HUNTER_2% misdirects <img src="images/skull.png" width="25" height="25"> to %HEALER_5%
+* %HUNTER_2% misdirects <img src="images/cross.png" width="25" height="25"> to %HEALER_5%
     * Once in hallway %MT% tanks Tempest Falconers
 
 ### Phoenix-Hawk (three right, one left)
