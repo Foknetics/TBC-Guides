@@ -87,9 +87,6 @@ Raid | %HEALER_5%
 6 | G1, G2, G3, G4 & G2, G4 | On Pull & after 1st add phase
 
 ## Post Lurker Trash
-* Greyheart Pack + Lurker x3
-* Greyheart Pack
-
 ### Serpentguard Pack
 * Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
 * %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25">/<img src="images/moon.png" width="25" height="25">
@@ -217,9 +214,6 @@ Unmarked | Fathom-Lord Karathress | %MT% | N/A | Move out if approaching 80%
 6 | G1, G2, G3, G4 & G2, G3 | On Pull & 2m in
 
 ## Post Fathom-Lord Trash
-* Shatterer Pack
-* Tidewalker Pack x4
-
 ### Shatterer Pack
 * Focus <img src="images/skull.png" width="25" height="25"> Fathom-Witch on %MT%
 * <img src="images/cross.png" width="25" height="25"> Fathom-Witch on %OT1%
