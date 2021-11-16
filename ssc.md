@@ -201,7 +201,7 @@ Naz, Holo, Vili, Mallack
 Marker | Mob | Tank | Misdirect | Notes
 -------|-----|------|-----------|------
 <img src="images/skull.png" width="25" height="25"> | Fathom-Guard Tidalvess | Tankadin | Holo | Windfury, big burst potential
-<img src="images/cross.png" width="25" height="25"> | Fathom-Guard Sharkkis | Aegistwo | N/A | Summons adds
+<img src="images/cross.png" width="25" height="25"> | Fathom-Guard Sharkkis | Aegistwo | Mallack | Summons adds
 <img src="images/square.png" width="25" height="25"> | Fathom-Guard-Caribdis | Saders | Vili | Interupt Heals
 Unmarked | Fathom-Lord Karathress | Mahakaha | N/A | Move out if approaching 80%
 * Kill order: Spitfire Totem, Sporebats, Lurker, Tidalvess, Sharkkis, Caribdis, Karathress
