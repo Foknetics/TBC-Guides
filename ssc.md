@@ -3,9 +3,9 @@
 ## Pre Hydross Trash
 ### Coilfang & Bats Pack
 * Focus Sporebat then Hate Screamer
-* %MT% grab Beast-Tamer
+* Mahakaha grab Beast-Tamer
 * All players, pets, and totems need to be stacked
-* %OT2% sits out to soak charge
+* Aegistwo sits out to soak charge
 
 ### Underbog Colossus
 * Ranged play from **max range** to avoid quake (30yds)
@@ -15,17 +15,19 @@
 * Tranquilizing Shot Frenzy
 
 ## Hydross (~2m 5s)
-* Frost Resistance Totem in %MT% group in P1
-* Nature Resistance Totem in %OT1% group in P2
-* MD %MT% on pull
+### WE WILL BE HOLDING IN WATER PHASE IDEALLY UNTIL KILL
+* Frost Resistance Totem in Mahakaha group in P1
+* Nature Resistance Totem in Tankadin group in P2
+* MD Mahakaha on pull
 * Threat drop on transition **Stop DPS**
 
-Market | Warlock
+
+Nature Phase Adds
 -------|--------
-B1 | %WARLOCK_1%
-B2 | %WARLOCK_2%
-B3 | %WARLOCK_3%
-<img src="images/skull.png" width="25" height="25"> | kill
+<img src="images/skull.png" width="25" height="25"> | Aegistwo
+<img src="images/skull.png" width="25" height="25"> | Aegistwo
+<img src="images/skull.png" width="25" height="25"> | Aegistwo
+<img src="images/skull.png" width="25" height="25"> | Aegistwo
 
 ![Hydross](images/hydross.png)
 
@@ -42,9 +44,9 @@ B3 | %WARLOCK_3%
 
 ## Post Hydross Trash
 ### Lurker Platforms (6 platforms ~10m)
-* <img src="images/skull.png" width="25" height="25"> Vashj'ir Honor Guard on %MT%
-* %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
-* %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
+* <img src="images/skull.png" width="25" height="25"> Vashj'ir Honor Guard on Mahakaha
+* Holo / Mallack misdirect AoE to Tankadin
+* Vili / Naz misdirect AoE to Aegistwo
 * Melee Cleave off <img src="images/skull.png" width="25" height="25">
 * Tremor fear
 * Interrupt Priestess heals
@@ -53,7 +55,7 @@ B3 | %WARLOCK_3%
 ### Boss Phase (>1m 30s)
 ![Lurker P1](images/lurker-p1.png)
 
-* G1 Shaman stay as close to %MT% as possible for totems
+* G1 Shaman stay as close to Mahakaha as possible for totems
 * G1 and G2 melee spread in designated areas
     * Step into water pre-whirl to avoid knock back out of range
 * Raid spread to avoid Geyser
@@ -64,19 +66,19 @@ B3 | %WARLOCK_3%
 ![Lurker P1](images/lurker-p2.png)
 Marker | Mob | Tank | Misdirect | Notes
 -------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Coilfang Guardian | %OT1% | %HUNTER_1% | Stun/Disarmable
-<img src="images/cross.png" width="25" height="25"> | Coilfang Guardian | %OT1% | %HUNTER_2% | Stun/Disarmable
-<img src="images/square.png" width="25" height="25"> | Coilfang Guardian | %OT2% | N/A | Taunted by %OT1%
+<img src="images/skull.png" width="25" height="25"> | Coilfang Guardian | Tankadin | Holo | Stun/Disarmable
+<img src="images/cross.png" width="25" height="25"> | Coilfang Guardian | Tankadin | Holo | Stun/Disarmable
+<img src="images/square.png" width="25" height="25"> | Coilfang Guardian | Aegistwo | N/A | Taunted by Tankadin
 * Disarm Guardians
 * Mages Polymorph Coilfang Ambushers on mage platform
 * Locks Fear Coilfang Ambushers on lock platform
-* AoE Coilfang Guardian and Coilfang Ambusher on %OT1%
+* AoE Coilfang Guardian and Coilfang Ambusher on Tankadin
 * Kill lock platform then mage platform
 
 Focus | Healer
 ------|--------
-%OT1% | %HEALER_1%, %HEALER_2%, %HEALER_3%, %HEALER_4%
-Raid | %HEALER_5%
+Tankadin | Leyla, Bearsword, Elice, Spiv
+Raid | Stompthehoof
 
 ### Bloodlusts
 \# of shamans | Groups | Timings
@@ -88,10 +90,10 @@ Raid | %HEALER_5%
 
 ## Post Lurker Trash
 ### Serpentguard Pack
-* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
-* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25"> or <img src="images/moon.png" width="25" height="25">
-* %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
-* %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on Mahakaha
+* Sealbooper Polymorph <img src="images/triangle.png" width="25" height="25"> or <img src="images/moon.png" width="25" height="25">
+* Holo / Mallack misdirect AoE to Tankadin
+* Vili / Naz misdirect AoE to Aegistwo
 * Melee focus Water Elemental Totems first
 * Watch poison cleanse while Greyheart Tidecaller is up
 
@@ -103,66 +105,66 @@ Raid | %HEALER_5%
 * Tranquilizing Shot Frenzy
 
 ### Serpentguard Pack
-* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
-* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25"> or <img src="images/moon.png" width="25" height="25">
-* %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
-* %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on Mahakaha
+* Sealbooper Polymorph <img src="images/triangle.png" width="25" height="25"> or <img src="images/moon.png" width="25" height="25">
+* Holo / Mallack misdirect AoE to Tankadin
+* Vili / Naz misdirect AoE to Aegistwo
 * Melee focus Water Elemental Totems first
 * Watch poison cleanse while Greyheart Tidecaller is up
 
 ### Fathom-Witch Pack
 * AoE knock back watch edges
 * Grounding Totem for all groups while Coilfang Fathom-Witch is alive
-* Focus <img src="images/skull.png" width="25" height="25"> Fathom-Witch on %MT%
-* <img src="images/cross.png" width="25" height="25"> Fathom-Witch on %OT1%
-* <img src="images/diamond.png" width="25" height="25"> & <img src="images/star.png" width="25" height="25"> Serpentguard on %OT2%
+* Focus <img src="images/skull.png" width="25" height="25"> Fathom-Witch on Mahakaha
+* <img src="images/cross.png" width="25" height="25"> Fathom-Witch on Tankadin
+* <img src="images/diamond.png" width="25" height="25"> & <img src="images/star.png" width="25" height="25"> Serpentguard on Aegistwo
     * Face away for cleave
 
 ### Greyheart Double Pull
-* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
-* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25"> or <img src="images/moon.png" width="25" height="25"> Nether-Mage in 2nd pack
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on Mahakaha
+* Sealbooper Polymorph <img src="images/triangle.png" width="25" height="25"> or <img src="images/moon.png" width="25" height="25"> Nether-Mage in 2nd pack
 * Loose spread for Range of Fire
 * Melee focus Water Elemental Totems first
 
 ### Greyheart + Lurker Pack (twice)
-* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
-* Stack for mushrooms, move with %MT%
-* %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
-* %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on Mahakaha
+* Stack for mushrooms, move with Mahakaha
+* Holo / Mallack misdirect AoE to Tankadin
+* Vili / Naz misdirect AoE to Aegistwo
 
 ### Greyheart Pack
-* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
-* Stack to avoid Charge, move with %MT%
-* %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
-* %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on Mahakaha
+* Stack to avoid Charge, move with Mahakaha
+* Holo / Mallack misdirect AoE to Tankadin
+* Vili / Naz misdirect AoE to Aegistwo
 * Melee focus Water Elemental Totems first
 
 ## Leotheras The Blind (4m)
 ### Add Phase (~40s)
 Marker | Mob | Tank | Misdirect | Notes
 -------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Greyheart Spellbinder | %MT% | %HUNTER_1% | N/A
-<img src="images/cross.png" width="25" height="25"> | Greyheart Spellbinder | %OT1% | %HUNTER_2% | N/A
-<img src="images/square.png" width="25" height="25"> | Greyheart Spellbinder | %OT2% | %HUNTER_3% | N/A
+<img src="images/skull.png" width="25" height="25"> | Greyheart Spellbinder | Mahakaha | Holo | N/A
+<img src="images/cross.png" width="25" height="25"> | Greyheart Spellbinder | Tankadin | Vili | N/A
+<img src="images/square.png" width="25" height="25"> | Greyheart Spellbinder | Aegistwo | Mallack | N/A
 * Pre PWS all melee
 * Melee Nightmare Seed on pull
 * Melee spread around on pull
 
 ### Phase Transition Misdirect Rotation
-%HUNTER_4%, %HUNTER_1%, %HUNTER_2%, %HUNTER_3%
+Naz, Holo, Vili, Mallack
 
 ### Human Phase (1m)
 * Ranged spread out to avoid whirlwind
 * **STOP DPS** at transition
 
 ### Demon Phase (1m)
-* Tanked by %WARLOCK_TANK% wearing fire resist gear
+* Tanked by Irsic wearing fire resist gear
 * **STOP DPS** at transition
 
 ### Dual Phase (Happens at 15%)
 * Attackable if transitions while in Demon form
 * DPS Focus Human
-* Demon tanked by %WARLOCK_TANK% wearing fire resist gear
+* Demon tanked by Irsic wearing fire resist gear
 
 ### Bloodlusts
 \# of shamans | Groups | Timings
@@ -175,16 +177,16 @@ Marker | Mob | Tank | Misdirect | Notes
 ## Post Leo Trash
 ### Greyheart Pack
 * LoS on wall corner
-* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
-* Stack to avoid Charge, move with %MT%
-* %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
-* %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on Mahakaha
+* Stack to avoid Charge, move with Mahakaha
+* Holo / Mallack misdirect AoE to Tankadin
+* Vili / Naz misdirect AoE to Aegistwo
 * Melee focus Water Elemental Totems first
 
 ### Greyheart Three Pack (twice)
-* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
-* <img src="images/cross.png" width="25" height="25"> on %OT1%
-* <img src="images/square.png" width="25" height="25"> on %OT2%
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on Mahakaha
+* <img src="images/cross.png" width="25" height="25"> on Tankadin
+* <img src="images/square.png" width="25" height="25"> on Aegistwo
 
 ### Underbog Colossus (5 times)
 * Ranged play from **max range** to avoid quake (30yds)
@@ -197,10 +199,10 @@ Marker | Mob | Tank | Misdirect | Notes
 ## Fathom-Lord Karathress (2m 45s)
 Marker | Mob | Tank | Misdirect | Notes
 -------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Fathom-Guard Tidalvess | %OT1% | %HUNTER_1% | Windfury, big burst potential
-<img src="images/cross.png" width="25" height="25"> | Fathom-Guard Sharkkis | %OT2% | N/A | Summons adds
-<img src="images/square.png" width="25" height="25"> | Fathom-Guard-Caribdis | %OT3% | %HUNTER_2% | Interupt Heals
-Unmarked | Fathom-Lord Karathress | %MT% | N/A | Move out if approaching 80%
+<img src="images/skull.png" width="25" height="25"> | Fathom-Guard Tidalvess | Tankadin | Holo | Windfury, big burst potential
+<img src="images/cross.png" width="25" height="25"> | Fathom-Guard Sharkkis | Aegistwo | N/A | Summons adds
+<img src="images/square.png" width="25" height="25"> | Fathom-Guard-Caribdis | Saders | Vili | Interupt Heals
+Unmarked | Fathom-Lord Karathress | Mahakaha | N/A | Move out if approaching 80%
 * Kill order: Spitfire Totem, Sporebats, Lurker, Tidalvess, Sharkkis, Caribdis, Karathress
 * Avoid Tornados
 * Bring Caribdis out from corner when Sharkkis dies
@@ -215,10 +217,10 @@ Unmarked | Fathom-Lord Karathress | %MT% | N/A | Move out if approaching 80%
 
 ## Post Fathom-Lord Trash
 ### Shatterer Pack
-* Focus <img src="images/skull.png" width="25" height="25"> Fathom-Witch on %MT%
-* <img src="images/cross.png" width="25" height="25"> Fathom-Witch on %OT1%
-* %HUNTER_1% misdirect <img src="images/circle.png" width="25" height="25"> Serpentguard to %MT%
-* Shatterers on %OT2%
+* Focus <img src="images/skull.png" width="25" height="25"> Fathom-Witch on Mahakaha
+* <img src="images/cross.png" width="25" height="25"> Fathom-Witch on Tankadin
+* Holo misdirect <img src="images/circle.png" width="25" height="25"> Serpentguard to Mahakaha
+* Shatterers on Aegistwo
     * Face away for cleave
 * Grounding Totem for all groups while Coilfang Fathom-Witch is alive
 
@@ -228,10 +230,10 @@ Unmarked | Fathom-Lord Karathress | %MT% | N/A | Move out if approaching 80%
 * Freedom on Tanks
 
 ## Morogrim Tidewalker (3m 30s)
-* **STOP HEALS**, except on %MT%, on add spawn
-* AoE adds once %OT1%/%OT2% has threat
+* **STOP HEALS**, except on Mahakaha, on add spawn
+* AoE adds once Tankadin/Aegistwo has threat
 * Avoid water bubbles after 25%
-* %HEALER_5% heal watery graves
+* Bearsword heal watery graves
 
 ### Bloodlusts
 \# of shamans | Groups | Timings
@@ -245,9 +247,9 @@ Unmarked | Fathom-Lord Karathress | %MT% | N/A | Move out if approaching 80%
 ### Fathom-Witch Pack
 * AoE knock back watch edges
 * Grounding Totem for all groups while Coilfang Fathom-Witch is alive
-* Focus <img src="images/skull.png" width="25" height="25"> Fathom-Witch on %MT%
-* <img src="images/cross.png" width="25" height="25"> Fathom-Witch on %OT1%
-* <img src="images/diamond.png" width="25" height="25"> & <img src="images/star.png" width="25" height="25"> Serpentguard on %OT2%
+* Focus <img src="images/skull.png" width="25" height="25"> Fathom-Witch on Mahakaha
+* <img src="images/cross.png" width="25" height="25"> Fathom-Witch on Tankadin
+* <img src="images/diamond.png" width="25" height="25"> & <img src="images/star.png" width="25" height="25"> Serpentguard on Aegistwo
     * Face away for cleave
 
 ## Lady Vashj (8m+)
@@ -255,39 +257,39 @@ Unmarked | Fathom-Lord Karathress | %MT% | N/A | Move out if approaching 80%
 * Burn all Lay on Hands prior to fight
 
 ### Phase One (75% ~1m 10s)
-* Grounding Totem in %MT% Group
+* Grounding Totem in Mahakaha Group
 * Static Charge target needs to move out
 
 ### Phase Two (4 Cores 5m)
 #### Elementals
 Quadrant | DPS | Healer
 ---------|-----|--------
-1 | %Q1_DPS% | %Q1_HEAL%
-2 | %Q2_DPS% | %Q2_HEAL%
-3 | %Q3_DPS% | %Q3_HEAL%
-4 | %Q4_DPS% | %Q4_HEAL%
+1 | Vili | Stompthehoof
+2 | Mallack | Spiv
+3 | Holo | Leyla
+4 | Naz | Bearsword
 * DPS focus on killing all elementals in their quadrant and looting the tainted core
 * Healer keeps DPS alive and acts as first pass to top of stairs
-* Healer passes to %DUNKER%
+* Healer passes to Elice
 
 #### Coilfang Striders
-* Tanked by %MT% at max range to avoid fear
+* Tanked by Mahakaha at max range to avoid fear
 * Ranged and melee with ogre suits DPS
-* Look for misdirects to %MT%
+* Look for misdirects to Mahakaha
 * Stunnable
 
 #### Coilfang Elite
-* Tanked by either %OT1% or %OT2%
+* Tanked by either Tankadin or Aegistwo
 * Non ogre suit melee
 * All DPS when no Strider alive
 
 ### Phase Three (2m)
 * Clean up adds
 * Drop thornlings, land mines, excess totems on the edges
-* Grounding Totem in %MT% Group
+* Grounding Totem in Mahakaha Group
 * Static Charge target needs to move out
-* %OT1% and %OT2% taunt Mind Controlled players out of center
-* Freedom %MT%
+* Tankadin and Aegistwo taunt Mind Controlled players out of center
+* Freedom Mahakaha
 
 ### Bloodlusts
 \# of shamans | Groups | Timings

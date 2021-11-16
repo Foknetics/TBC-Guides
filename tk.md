@@ -2,50 +2,50 @@
 
 ## Pre Al'ar Trash
 ### Legionaire Pack (Bloodlust) (twice)
-* Focus <img src="images/skull.png" width="25" height="25"> Vindicator on %MT%
-* <img src="images/cross.png" width="25" height="25"> Vindicator on %OT1%
-* <img src="images/circle.png" width="25" height="25"> & <img src="images/square.png" width="25" height="25"> Legionnaire on %OT2%
+* Focus <img src="images/skull.png" width="25" height="25"> Vindicator on Mahakaha
+* <img src="images/cross.png" width="25" height="25"> Vindicator on Tankadin
+* <img src="images/circle.png" width="25" height="25"> & <img src="images/square.png" width="25" height="25"> Legionnaire on Aegistwo
     * Pull to corner for Whirlwind
-* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25">
-* %MAGE_1% Polymorph <img src="images/moon.png" width="25" height="25">
+* Sealbooper Polymorph <img src="images/triangle.png" width="25" height="25">
+* Zantty Polymorph <img src="images/moon.png" width="25" height="25">
 * Ranged stay back to avoid Astromancer Blast Wave
 * Disarm Legionaire after <img src="images/skull.png" width="25" height="25"> and  <img src="images/cross.png" width="25" height="25">
 
 ### Bloodwarder Marshal
-* Focus <img src="images/skull.png" width="25" height="25"> Marshal on %MT%
+* Focus <img src="images/skull.png" width="25" height="25"> Marshal on Mahakaha
     * Move out of Whirlwind
-* <img src="images/cross.png" width="25" height="25"> Squire on %OT1%
-* <img src="images/square.png" width="25" height="25"> Squire on %OT2%
+* <img src="images/cross.png" width="25" height="25"> Squire on Tankadin
+* <img src="images/square.png" width="25" height="25"> Squire on Aegistwo
 
 ### Legionaire Pack
-* Focus <img src="images/skull.png" width="25" height="25"> Vindicator on %MT%
-* <img src="images/cross.png" width="25" height="25"> Vindicator on %OT1%
-* <img src="images/circle.png" width="25" height="25"> & <img src="images/square.png" width="25" height="25"> Legionnaire on %OT2%
+* Focus <img src="images/skull.png" width="25" height="25"> Vindicator on Mahakaha
+* <img src="images/cross.png" width="25" height="25"> Vindicator on Tankadin
+* <img src="images/circle.png" width="25" height="25"> & <img src="images/square.png" width="25" height="25"> Legionnaire on Aegistwo
     * Pull to corner for Whirlwind
-* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25">
-* %MAGE_1% Polymorph <img src="images/moon.png" width="25" height="25">
+* Sealbooper Polymorph <img src="images/triangle.png" width="25" height="25">
+* Zantty Polymorph <img src="images/moon.png" width="25" height="25">
 * Ranged stay back to avoid Astromancer Blast Wave
 * Disarm Legionaire after <img src="images/skull.png" width="25" height="25"> and  <img src="images/cross.png" width="25" height="25">
 
 ### Hatchling Pack (twice)
-* %OT1% and %OT2% tank Hatchlings in right corner of hallway
-* %HEALER_4% and %HEALER_5% runs towards the entrance to force Tempest Falconers to come in
-* %HUNTER_1% misdirects <img src="images/skull.png" width="25" height="25"> to %HEALER_4%
-* %HUNTER_2% misdirects <img src="images/cross.png" width="25" height="25"> to %HEALER_5%
-    * Once in hallway %MT% tanks Tempest Falconers
+* Tankadin and Aegistwo tank Hatchlings in right corner of hallway
+* Leyla and %HEALER_5% runs towards the entrance to force Tempest Falconers to come in
+* Holo misdirects <img src="images/skull.png" width="25" height="25"> to Leyla
+* Holo misdirects <img src="images/cross.png" width="25" height="25"> to Leyla
+    * Once in hallway Mahakaha tanks Tempest Falconers
 
 ### Phoenix-Hawk (three right, one left)
 * Mana burn, spam drink on combat drop
-* %MT% tank in corner of outside of door
-* %OT2% uses a blessing to get on threat table then stays in hallway
+* Mahakaha tank in corner of outside of door
+* Aegistwo uses a blessing to get on threat table then stays in hallway
 
 ## Al'ar (5m 30s)
 **Tauntable**
 
 ### Phase One
 * Rotate misdirects on pull
-* %OT1% stays on opposite side of %MT%
-* %OT2% picks up adds if any spawn
+* Tankadin stays on opposite side of Mahakaha
+* Aegistwo picks up adds if any spawn
 
 ### Phase Two
 * Taunt swap boss on Melt Armor
@@ -114,7 +114,7 @@
 * All heals on melee
 
 ### Squire Pack
-* Dispell %MT%
+* Dispell Mahakaha
 * Move out of Reign of Fire
 
 ### Nether Scryer Patrol
@@ -141,39 +141,39 @@
 
 ## Kael'thas Trash
 ### Inquisitor Patrol
-* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25">
-* %MAGE_1% Polymorph <img src="images/moon.png" width="25" height="25">
-* Kill Inquisitor on %MT%
+* Sealbooper Polymorph <img src="images/triangle.png" width="25" height="25">
+* Zantty Polymorph <img src="images/moon.png" width="25" height="25">
+* Kill Inquisitor on Mahakaha
 
 ### Blood Knight Pack (twice)
-* Focus <img src="images/skull.png" width="25" height="25"> Blood Knight on %MT%
-* <img src="images/cross.png" width="25" height="25"> Blood Knight on %OT1%
-* <img src="images/circle.png" width="25" height="25"> & <img src="images/diamond.png" width="25" height="25"> Battle Mage on %OT2%
-* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25">
-* %MAGE_1% Polymorph <img src="images/moon.png" width="25" height="25">
+* Focus <img src="images/skull.png" width="25" height="25"> Blood Knight on Mahakaha
+* <img src="images/cross.png" width="25" height="25"> Blood Knight on Tankadin
+* <img src="images/circle.png" width="25" height="25"> & <img src="images/diamond.png" width="25" height="25"> Battle Mage on Aegistwo
+* Sealbooper Polymorph <img src="images/triangle.png" width="25" height="25">
+* Zantty Polymorph <img src="images/moon.png" width="25" height="25">
 
 ### Kael'thas Room Pack (three)
-* Focus <img src="images/skull.png" width="25" height="25"> Blood Knight on %MT%
-* <img src="images/cross.png" width="25" height="25"> Inquisitor on %OT1%
-* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25">
-* Marshal on %OT2%
+* Focus <img src="images/skull.png" width="25" height="25"> Blood Knight on Mahakaha
+* <img src="images/cross.png" width="25" height="25"> Inquisitor on Tankadin
+* Sealbooper Polymorph <img src="images/triangle.png" width="25" height="25">
+* Marshal on Aegistwo
     * Pull slightly out
 
 ## Kael'thas
 ### Phase One
 * Melee avoid stupid deaths on Thaladred
-* %WARLOCK_1% on Capernian
+* Irsic on Capernian
 
 ### Weapon Phase
-* Devastation on %MT%
+* Devastation on Mahakaha
 * Melee kick Cosmic Infuser
 
 ### Phase Two
-* Sanguinar on %MT%
-* Telonicus on %OT1%
+* Sanguinar on Mahakaha
+* Telonicus on Tankadin
 
 ### Phase Three
-* %OT1% and %OT2% kite Pheonixes
+* Tankadin and Aegistwo kite Pheonixes
 * Rogues and Hunters focus clearing Mind Controls
 
 ### Bloodlusts
