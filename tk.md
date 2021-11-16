@@ -95,8 +95,8 @@
 -------------|--------|---------
 3 | G1, G2, G3 | On pull
 4 | G1, G2, G3 & G2 | On pull and 1m 40s in
-5 | G1, G2, G3 & G2, G3 | On pull and 1m 40s in
-6 | G1, G2, G3, G4 & G2, G3 | On pull and 1m 40s in
+5 | G1, G2, G3 & G2, G4 | On pull and 1m 40s in
+6 | G1, G2, G3, G4 & G2, G4 | On pull and 1m 40s in
 
 ## Solarian Trash
 * Astromancer Patrol
