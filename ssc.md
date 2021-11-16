@@ -26,9 +26,9 @@
 Marker | Tank
 -------|--------
 <img src="images/skull.png" width="25" height="25"> | Aegistwo
-<img src="images/skull.png" width="25" height="25"> | Aegistwo
-<img src="images/skull.png" width="25" height="25"> | Aegistwo
-<img src="images/skull.png" width="25" height="25"> | Aegistwo
+<img src="images/cross.png" width="25" height="25"> | Aegistwo
+<img src="images/square.png" width="25" height="25"> | Aegistwo
+<img src="images/moon.png" width="25" height="25"> | Aegistwo
 
 ![Hydross](images/hydross.png)
 
