@@ -29,7 +29,7 @@
 
 ### Hatchling Pack (twice)
 * Tankadin and Aegistwo tank Hatchlings in right corner of hallway
-* Leyla and %HEALER_5% runs towards the entrance to force Tempest Falconers to come in
+* Leyla runs towards the entrance to force Tempest Falconers to come in
 * Holo misdirects <img src="images/skull.png" width="25" height="25"> to Leyla
 * Holo misdirects <img src="images/cross.png" width="25" height="25"> to Leyla
     * Once in hallway Mahakaha tanks Tempest Falconers
@@ -171,6 +171,7 @@
 ### Phase Two
 * Sanguinar on Mahakaha
 * Telonicus on Tankadin
+* Capernian on Irsic
 
 ### Phase Three
 * Tankadin and Aegistwo kite Pheonixes
