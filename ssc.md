@@ -2,65 +2,50 @@
 
 ## Pre Hydross Trash
 ### Coilfang & Bats Pack
-Marker | Mob | Tank | Misdirect | Notes
--------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Serpentshrine Sporebat | %MT% | %HUNTER_1% | Charges furthest enemy
-<img src="images/cross.png" width="25" height="25"> | Serpentshrine Sporebat | %MT% | %HUNTER_2% | Charges furthest enemy
-<img src="images/square.png" width="25" height="25"> | Coilfang Beast-Tamer | %MT%  | N/A | Cleaves
-<img src="images/triangle.png" width="25" height="25"> | Coilfang Hate Screamer | %OT1% | N/A | AoE Silence
-<img src="images/moon.png" width="25" height="25"> | Coilfang Hate Screamer | %OT1% | N/A | AoE Silence
+* Focus Sporebat then Hate Screamer
+* %MT% grab Beast-Tamer
 * All players, pets, and totems need to be stacked
 * %OT2% sits out to soak charge
 
 ### Underbog Colossus
 * Ranged play from **max range** to avoid quake (30yds)
     * Heals should only be on the tank/melee
-* Cleanse Rampant Infection (disease)
 * Always hug left, target of Acid Geyser move right
+* Cleanse Rampant Infection (disease)
 * Tranquilizing Shot Frenzy
-* On death one of the following will occur:
-    * Nothing
-    * Toxic Pool - Move out, AoE is larger then visual
-    * Two Colossus Lurkers - Threat drop, tauntable
-    * Lots of small adds - AoE
-    * Blue Mushrooms - Regenerates mana/health
 
-## Hydross (~2m 15s)
-* Use pathing mobs to proc chickens
-    * Person using chicken must have taken damage from the mob
-    * **No DPS** until the call to drop combat is made
+## Hydross (~2m 5s)
 * Frost Resistance Totem in %MT% group in P1
 * Nature Resistance Totem in %OT1% group in P2
 * MD %MT% on pull
-### Bloodlusts
-\# of shamans | Groups | Timings
--------------|--------|---------
-3 | G1, G2, G3 | On Pull
-4 | G1, G2, G3 & G2 | On pull & 1m 30s in
-5 | G1, G2, G3 & G2, G3 | On pull & 1m 30s in
-6 | G1, G2, G3, G4 & G2, G3 | On pull & 1m 30s in
+* Threat drop on transition **Stop DPS**
+
+Market | Warlock
+-------|--------
+B1 | %WARLOCK_1%
+B2 | %WARLOCK_2%
+B3 | %WARLOCK_3%
+<img src="images/skull.png" width="25" height="25"> | kill
 
 ![Hydross](images/hydross.png)
 
 * Melee stack in designated area
 * Ranged groups loosely spread in designated area
-* Threat drop on transition **Stop DPS**
-* Banish adds
-    * <img src="images/skull.png" width="25" height="25"> - %WARLOCK_1%
-    * <img src="images/cross.png" width="25" height="25"> - %WARLOCK_2%
-    * <img src="images/square.png" width="25" height="25"> - %WARLOCK_3%
-    * <img src="images/triangle.png" width="25" height="25"> - %WARLOCK_4%
+
+### Bloodlusts
+\# of shamans | Groups | Timings
+-------------|--------|---------
+3 | G1, G2, G3 | On Pull
+4 | G1, G2, G3, G4 | On pull & 1m 25s in
+5 | G1, G2, G3, G4 & G2 | On pull & 1m 25s in
+6 | G1, G2, G3, G4 & G2, G3 | On pull & 1m 25s in
 
 ## Post Hydross Trash
 ### Lurker Platforms (6 platforms ~10m)
-Marker | Mob | Tank | Misdirect | Notes
--------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Vashj'ir Honor Guard | %MT% | %HUNTER_1% | AoE fear & knock back
-<img src="images/cross.png" width="25" height="25"> | Coilfang Shatterer | %OT1% | N/A | Armor Sunder, spell reflectable
-<img src="images/square.png" width="25" height="25"> | Coilfang Shatterer | %OT2% | N/A | Armor Sunder, spell reflectable
-<img src="images/triangle.png" width="25" height="25"> | Coilfang Priestess | %OT1% | %HUNTER_2% | Heal, interruptable
-<img src="images/moon.png" width="25" height="25"> | Coilfang Priestess | %OT2% | %HUNTER_3% | Heal, interruptable
-* Melee Cleave off Skull
+* <img src="images/skull.png" width="25" height="25"> Vashj'ir Honor Guard on %MT%
+* %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
+* %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
+* Melee Cleave off <img src="images/skull.png" width="25" height="25">
 * Tremor fear
 * Interrupt Priestess heals
 
@@ -68,8 +53,9 @@ Marker | Mob | Tank | Misdirect | Notes
 ### Boss Phase (>1m 30s)
 ![Lurker P1](images/lurker-p1.png)
 
+* G1 Shaman stay as close to %MT% as possible for totems
 * G1 and G2 melee spread in designated areas
-    * Jump into Whirl to avoid knock back out of range
+    * Step into water pre-whirl to avoid knock back out of range
 * Raid spread to avoid Geyser
 * Spout avoidable by being in the water
     * Don't jump, causes additional water damage ticks
@@ -81,90 +67,74 @@ Marker | Mob | Tank | Misdirect | Notes
 <img src="images/skull.png" width="25" height="25"> | Coilfang Guardian | %OT1% | %HUNTER_1% | Stun/Disarmable
 <img src="images/cross.png" width="25" height="25"> | Coilfang Guardian | %OT1% | %HUNTER_2% | Stun/Disarmable
 <img src="images/square.png" width="25" height="25"> | Coilfang Guardian | %OT2% | N/A | Taunted by %OT1%
+* Disarm Guardians
 * Mages Polymorph Coilfang Ambushers on mage platform
 * Locks Fear Coilfang Ambushers on lock platform
 * AoE Coilfang Guardian and Coilfang Ambusher on %OT1%
-* Kill lock platform
-* Kill mage platform
+* Kill lock platform then mage platform
+
+Focus | Healer
+------|--------
+%OT1% | %HEALER_1%, %HEALER_2%, %HEALER_3%, %HEALER_4%
+Raid | %HEALER_5%
 
 ### Bloodlusts
 \# of shamans | Groups | Timings
 -------------|--------|---------
 3 | G1, G2, G3 | On Pull
 4 | G1, G2, G3 & G2 | On pull & after 1st add phase
-5 | G1, G2, G3 & G2, G3 | On pull & after 1st add phase
-6 | G1, G2, G3, G4 & G2, G3 | On Pull & after 1st add phase
+5 | G1, G2, G3 & G2, G4 | On pull & after 1st add phase
+6 | G1, G2, G3, G4 & G2, G4 | On Pull & after 1st add phase
 
 ## Post Lurker Trash
-* Serpentguard pack
-* Underbog Colossus
-* Serpentguard pack
-* Fathom-Witch Pack
-* Greyheart Mini Pack
-* Greyheart Pack + Lurker x3
-* Greyheart Pack
-
 ### Serpentguard Pack
-Marker | Mob | Tank | Misdirect | Notes
--------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Greyheart Tidecaller | %MT% | %HUNTER_1% | Summons water elemental totems
-<img src="images/cross.png" width="25" height="25"> | Coilfang Serpentguard | %OT1% | N/A | Cleaves, spell reflect
-<img src="images/square.png" width="25" height="25"> | Coilfang Serpentguard | %OT1% | %HUNTER_2% | Cleaves, spell reflect
-<img src="images/diamond.png" width="25" height="25"> | Greyheart Skulker | %OT2% | N/A | Kicks nearby casts
-<img src="images/triangle.png" width="25" height="25"> | Greyheart Nether-Mage | %MAGE_1% | N/A | Polymorph
-<img src="images/moon.png" width="25" height="25"> | Greyheart Nether-Mage | %MAGE_2% | N/A | Polymorph
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
+* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25"> or <img src="images/moon.png" width="25" height="25">
+* %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
+* %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
 * Melee focus Water Elemental Totems first
 * Watch poison cleanse while Greyheart Tidecaller is up
 
 ### Underbog Colossus
 * Ranged play from **max range** to avoid quake (30yds)
     * Heals should only be on the tank/melee
-* Cleanse Rampant Infection (disease)
 * Always hug left, target of Acid Geyser move right
+* Cleanse Rampant Infection (disease)
 * Tranquilizing Shot Frenzy
-* On death one of the following will occur:
-    * Nothing
-    * Toxic Pool - Move out, AoE is larger then visual
-    * Two Colossus Lurkers - Threat drop, tauntable
-    * Lots of small adds - AoE
-    * Blue Mushrooms - Regenerates mana/health
+
+### Serpentguard Pack
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
+* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25"> or <img src="images/moon.png" width="25" height="25">
+* %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
+* %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
+* Melee focus Water Elemental Totems first
+* Watch poison cleanse while Greyheart Tidecaller is up
 
 ### Fathom-Witch Pack
-Marker | Mob | Tank | Misdirect | Notes
--------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Coilfang Fathom-Witch | %MT% | %HUNTER_1% | AoE knock back, watch edges
-<img src="images/cross.png" width="25" height="25"> | Coilfang Fathom-Witch | %OT1% | %HUNTER_2% | AoE knock back, watch edges
-<img src="images/diamond.png" width="25" height="25"> | Coilfang Serpentguard | %OT2% | N/A | Cleaves, spell reflect
-<img src="images/triangle.png" width="25" height="25"> | Coilfang Serpentguard | %OT2% | %HUNTER_3% | Cleaves, spell reflect
+* AoE knock back watch edges
 * Grounding Totem for all groups while Coilfang Fathom-Witch is alive
+* Focus <img src="images/skull.png" width="25" height="25"> Fathom-Witch on %MT%
+* <img src="images/cross.png" width="25" height="25"> Fathom-Witch on %OT1%
+* <img src="images/diamond.png" width="25" height="25"> & <img src="images/star.png" width="25" height="25"> Serpentguard on %OT2%
+    * Face away for cleave
 
-### Greyheart Pack
-Marker | Mob | Tank | Misdirect | Notes
--------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Greyheart Tidecaller | %MT% | N/A | Summons water elemental totems
-<img src="images/cross.png" width="25" height="25"> | Greyheart Tidecaller | %OT1% | N/A | Summons water elemental totems
-<img src="images/moon.png" width="25" height="25"> | Greyheart Nether-Mage | %MAGE_1% | N/A | Polymorph
+### Greyheart Double Pull
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
+* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25"> or <img src="images/moon.png" width="25" height="25"> Nether-Mage in 2nd pack
+* Loose spread for Range of Fire
 * Melee focus Water Elemental Totems first
 
-### Greyheart Pack (5 random mobs, mini has 3)
-Kill Order | Mob | Notes
------------|-----|------
-1 | Greyheart Tidecaller | Summons water elemental totems
-2 | Greyheart Shield-Bearer | Stack to avoid charge
-3 | Serpentshrine Lurker | Spawns mushrooms that explode
-4 | Greyheart Skulker | Kicks nearby casts
-5 | Greyheart Nether-Mage | Can be polymorphed, big AoE damage
-* Melee focus Water Elemental Totems
-* Stack if pack includes Greyheart Shield-Bearer
+### Greyheart + Lurker Pack (twice)
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
+* Stack for mushrooms, move with %MT%
+* %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
+* %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
 
-### Leo Packs
-Marker | Mob | Tank | Misdirect | Notes
--------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Greyheart Tidecaller | %MT% | N/A | Summons water elemental totems
-<img src="images/cross.png" width="25" height="25"> | Greyheart Tidecaller | %OT1% | N/A | Summons water elemental totems
-<img src="images/circle.png" width="25" height="25"> | Serpentshrine Lurker | %OT2% | N/A | Spawns mushrooms that explode
-<img src="images/cross.png" width="25" height="25"> | Greyheart Shield-Bearer | %MT% | %HUNTER_1% | Stack to avoid charge
-<img src="images/moon.png" width="25" height="25"> | Greyheart Nether-Mage | %MAGE_1% | N/A | Polymorph
+### Greyheart Pack
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
+* Stack to avoid Charge, move with %MT%
+* %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
+* %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
 * Melee focus Water Elemental Totems first
 
 ## Leotheras The Blind (4m)
@@ -173,10 +143,13 @@ Marker | Mob | Tank | Misdirect | Notes
 -------|-----|------|-----------|------
 <img src="images/skull.png" width="25" height="25"> | Greyheart Spellbinder | %MT% | %HUNTER_1% | N/A
 <img src="images/cross.png" width="25" height="25"> | Greyheart Spellbinder | %OT1% | %HUNTER_2% | N/A
-<img src="images/triangle.png" width="25" height="25"> | Serpentshrine Spellbinder | %OT2% | %HUNTER_3% | N/A
+<img src="images/square.png" width="25" height="25"> | Greyheart Spellbinder | %OT2% | %HUNTER_3% | N/A
 * Pre PWS all melee
 * Melee Nightmare Seed on pull
 * Melee spread around on pull
+
+### Phase Transition Misdirect Rotation
+%HUNTER_4%, %HUNTER_1%, %HUNTER_2%, %HUNTER_3%
 
 ### Human Phase (1m)
 * Ranged spread out to avoid whirlwind
@@ -200,40 +173,34 @@ Marker | Mob | Tank | Misdirect | Notes
 6 | G1, G2, G3, G4 & G2, G3 | On Pull & 3m in
 
 ## Post Leo Trash
-* Greyheart Pack x2
-* Greyheart Mini Pack
-* Underbog Colossus x5
+### Greyheart Pack
+* LoS on wall corner
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
+* Stack to avoid Charge, move with %MT%
+* %HUNTER_1% / %HUNTER_3% misdirect AoE to %OT1%
+* %HUNTER_2% / %HUNTER_4% misdirect AoE to %OT2%
+* Melee focus Water Elemental Totems first
 
-### Greyheart Pack (5 random mobs, mini has 3)
-Kill Order | Mob | Notes
------------|-----|------
-1 | Greyheart Tidecaller | Summons water elemental totems
-2 | Greyheart Shield-Bearer | Stack to avoid charge
-4 | Greyheart Skulker | Kicks nearby casts
-5 | Greyheart Nether-Mage | Can be polymorphed, big AoE damage
-* Melee focus Water Elemental Totems
-* Stack if pack includes Greyheart Shield-Bearer
+### Greyheart Three Pack (twice)
+* Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on %MT%
+* <img src="images/cross.png" width="25" height="25"> on %OT1%
+* <img src="images/square.png" width="25" height="25"> on %OT2%
 
-### Underbog Colossus
+### Underbog Colossus (5 times)
 * Ranged play from **max range** to avoid quake (30yds)
     * Heals should only be on the tank/melee
-* Cleanse Rampant Infection (disease)
 * Always hug left, target of Acid Geyser move right
+* Cleanse Rampant Infection (disease)
 * Tranquilizing Shot Frenzy
-* On death one of the following will occur:
-    * Nothing
-    * Toxic Pool - Move out, AoE is larger then visual
-    * Two Colossus Lurkers - Threat drop, tauntable
-    * Lots of small adds - AoE
-    * Blue Mushrooms - Regenerates mana/health
+* Look to move Colossus ahead of potential puddle
 
 ## Fathom-Lord Karathress (2m 45s)
 Marker | Mob | Tank | Misdirect | Notes
 -------|-----|------|-----------|------
 <img src="images/skull.png" width="25" height="25"> | Fathom-Guard Tidalvess | %OT1% | %HUNTER_1% | Windfury, big burst potential
-<img src="images/cross.png" width="25" height="25"> | Fathom-Guard Sharkkis | %OT3% | N/A | Summons adds
-<img src="images/square.png" width="25" height="25"> | Fathom-Guard-Caribdis | %OT2% | %HUNTER_2% | Interupt Heals
-<img src="images/moon.png" width="25" height="25"> | Fathom-Lord Karathress | %MT% | N/A | Move out if approaching 80%
+<img src="images/cross.png" width="25" height="25"> | Fathom-Guard Sharkkis | %OT2% | N/A | Summons adds
+<img src="images/square.png" width="25" height="25"> | Fathom-Guard-Caribdis | %OT3% | %HUNTER_2% | Interupt Heals
+Unmarked | Fathom-Lord Karathress | %MT% | N/A | Move out if approaching 80%
 * Kill order: Spitfire Totem, Sporebats, Lurker, Tidalvess, Sharkkis, Caribdis, Karathress
 * Avoid Tornados
 * Bring Caribdis out from corner when Sharkkis dies
@@ -247,34 +214,24 @@ Marker | Mob | Tank | Misdirect | Notes
 6 | G1, G2, G3, G4 & G2, G3 | On Pull & 2m in
 
 ## Post Fathom-Lord Trash
-* Shatterer Pack
-* Tidewalker Pack x4
-
 ### Shatterer Pack
-Marker | Mob | Tank | Misdirect | Notes
--------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Coilfang Fathom-Witch | %MT% | %HUNTER_1% | AoE knock back
-<img src="images/cross.png" width="25" height="25"> | Coilfang Fathom-Witch | %MT% | %HUNTER_2% | AoE knock back
-<img src="images/circle.png" width="25" height="25"> | Coilfang Serpentguard | %OT1% | N/A  | Cleaves, spell reflect
-<img src="images/diamond.png" width="25" height="25"> | Coilfang Shatterer | %OT1% | %HUNTER_3% | Shatter Armor
-<img src="images/triangle.png" width="25" height="25"> | Coilfang Shatterer | %OT2% | N/A | Shatter Armor
+* Focus <img src="images/skull.png" width="25" height="25"> Fathom-Witch on %MT%
+* <img src="images/cross.png" width="25" height="25"> Fathom-Witch on %OT1%
+* %HUNTER_1% misdirect <img src="images/circle.png" width="25" height="25"> Serpentguard to %MT%
+* Shatterers on %OT2%
+    * Face away for cleave
 * Grounding Totem for all groups while Coilfang Fathom-Witch is alive
 
 ### Tidewalker Pack (5-6 random mobs)
-Kill Order | Mob | Notes
------------|-----|------
-1 | Tidewalker Depth-Seer| Uninterruptible tranquility
-2 | Tidewalker Harpooner | Net primary target then drop aggro, tauntable
-2 | Tidewalker Hydromancer | Frost nova, stunnable, silencable
-2 | Tidewalker Shaman | Immune to CC, interruptible
-3 | Tidewalker Warrior | Cleaves, Enrage, Threat Drop
-* Freedom on Tanks
+* Single target Depth-Seer on Tranquility
 * Tranquilizing Shot Tidewalker Warriors Frenzy
+* Freedom on Tanks
 
 ## Morogrim Tidewalker (3m 30s)
-* **STOP HEALS**, except on MT, on add spawn
-* AoE adds once %OT1% has threat
+* **STOP HEALS**, except on %MT%, on add spawn
+* AoE adds once %OT1%/%OT2% has threat
 * Avoid water bubbles after 25%
+* %HEALER_5% heal watery graves
 
 ### Bloodlusts
 \# of shamans | Groups | Timings
@@ -285,16 +242,13 @@ Kill Order | Mob | Notes
 6 | G1, G2, G3, G4 & G2, G3 | On Pull & 3m in
 
 ## Post Morogrim Trash
-* Fathom-Witch Pack
-
 ### Fathom-Witch Pack
-Marker | Mob | Tank | Misdirect | Notes
--------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Coilfang Fathom-Witch | %MT% | %HUNTER_1% | AoE knock back, watch edges
-<img src="images/cross.png" width="25" height="25"> | Coilfang Fathom-Witch | %OT1% | %HUNTER_2% | AoE knock back, watch edges
-<img src="images/diamond.png" width="25" height="25"> | Coilfang Serpentguard | %OT2% | N/A | Cleaves, spell reflect
-<img src="images/triangle.png" width="25" height="25"> | Coilfang Serpentguard | %OT2% | %HUNTER_3% | Cleaves, spell reflect
+* AoE knock back watch edges
 * Grounding Totem for all groups while Coilfang Fathom-Witch is alive
+* Focus <img src="images/skull.png" width="25" height="25"> Fathom-Witch on %MT%
+* <img src="images/cross.png" width="25" height="25"> Fathom-Witch on %OT1%
+* <img src="images/diamond.png" width="25" height="25"> & <img src="images/star.png" width="25" height="25"> Serpentguard on %OT2%
+    * Face away for cleave
 
 ## Lady Vashj (8m+)
 ![Vashj Quandrants](images/vashj.png)
@@ -333,6 +287,7 @@ Quadrant | DPS | Healer
 * Grounding Totem in %MT% Group
 * Static Charge target needs to move out
 * %OT1% and %OT2% taunt Mind Controlled players out of center
+* Freedom %MT%
 
 ### Bloodlusts
 \# of shamans | Groups | Timings

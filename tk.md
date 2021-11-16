@@ -1,45 +1,40 @@
 # Tempest Keep
 
 ## Pre Al'ar Trash
-* Legionaire Pack (Bloodlust)
-* Bloodwarder Marshal
-* Legionaire Pack
-* Legionaire Pack
-* Hatchling Pack * 2
-* Phoenix-Hawk * 3 left
-* Phoenix-Hawk * 1 right
-
-### Legionaire Pack
-Marker | Mob | Tank | Misdirect | Notes
--------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Star Scryer | %MT% | %HUNTER_1% | MC
-<img src="images/cross.png" width="25" height="25"> | Star Scryer | %MT% | %HUNTER_2% | MC
-<img src="images/square.png" width="25" height="25"> | Astromancer | %OT1%  | N/A | Purge Molten Armor
-<img src="images/diamond.png" width="25" height="25"> | Bloodwarder Vindicator | %OT2%  | N/A | HoJ - dispell
-<img src="images/triangle.png" width="25" height="25"> | Bloodwarder Legionaire | %MAGE_1% | N/A | Polymorph
-<img src="images/moon.png" width="25" height="25"> | Bloodwarder Legionaire | %MAGE_2% | N/A | Polymorph
+### Legionaire Pack (Bloodlust) (twice)
+* Focus <img src="images/skull.png" width="25" height="25"> Vindicator on %MT%
+* <img src="images/cross.png" width="25" height="25"> Vindicator on %OT1%
+* <img src="images/circle.png" width="25" height="25"> & <img src="images/square.png" width="25" height="25"> Legionnaire on %OT2%
+    * Pull to corner for Whirlwind
+* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25">
+* %MAGE_1% Polymorph <img src="images/moon.png" width="25" height="25">
 * Ranged stay back to avoid Astromancer Blast Wave
-* Disarm Legionaire after swap
+* Disarm Legionaire after <img src="images/skull.png" width="25" height="25"> and  <img src="images/cross.png" width="25" height="25">
 
 ### Bloodwarder Marshal
-Marker | Mob | Tank | Misdirect | Notes
--------|-----|------|-----------|------
-<img src="images/skull.png" width="25" height="25"> | Bloodwarder Marshal | %MT% | N/A | Whirlwind - move out
-<img src="images/cross.png" width="25" height="25"> | Bloodwarder Squire | %OT1% | N/A | HoJ - dispell, Heal - interrupt
-<img src="images/square.png" width="25" height="25"> | Bloodwarder Squire | %OT2%  | N/A | HoJ - dispell, Heal - interrupt
-* Tank <img src="images/skull.png" width="25" height="25"> on left banner
-    * Melee move out of Whirlwind
-* Tank <img src="images/cross.png" width="25" height="25"> and <img src="images/square.png" width="25" height="25"> on right banner
-    * Dispell HoJ
+* Focus <img src="images/skull.png" width="25" height="25"> Marshal on %MT%
+    * Move out of Whirlwind
+* <img src="images/cross.png" width="25" height="25"> Squire on %OT1%
+* <img src="images/square.png" width="25" height="25"> Squire on %OT2%
 
-### Hatchling Pack
+### Legionaire Pack
+* Focus <img src="images/skull.png" width="25" height="25"> Vindicator on %MT%
+* <img src="images/cross.png" width="25" height="25"> Vindicator on %OT1%
+* <img src="images/circle.png" width="25" height="25"> & <img src="images/square.png" width="25" height="25"> Legionnaire on %OT2%
+    * Pull to corner for Whirlwind
+* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25">
+* %MAGE_1% Polymorph <img src="images/moon.png" width="25" height="25">
+* Ranged stay back to avoid Astromancer Blast Wave
+* Disarm Legionaire after <img src="images/skull.png" width="25" height="25"> and  <img src="images/cross.png" width="25" height="25">
+
+### Hatchling Pack (twice)
 * %OT1% and %OT2% tank Hatchlings in right corner of hallway
-* %HEALER_5% towards the entrance to force Tempest Falconers to come in
-* %HUNTER_1% misdirects <img src="images/skull.png" width="25" height="25"> to %HEALER_5%
-* %HUNTER_2% misdirects <img src="images/skull.png" width="25" height="25"> to %HEALER_5%
+* %HEALER_4% and %HEALER_5% runs towards the entrance to force Tempest Falconers to come in
+* %HUNTER_1% misdirects <img src="images/skull.png" width="25" height="25"> to %HEALER_4%
+* %HUNTER_2% misdirects <img src="images/cross.png" width="25" height="25"> to %HEALER_5%
     * Once in hallway %MT% tanks Tempest Falconers
 
-### Phoenix-Hawk
+### Phoenix-Hawk (three right, one left)
 * Mana burn, spam drink on combat drop
 * %MT% tank in corner of outside of door
 * %OT2% uses a blessing to get on threat table then stays in hallway
@@ -80,15 +75,16 @@ Marker | Mob | Tank | Misdirect | Notes
 * All heals on melee
 
 ### Devastator Smith Pack
-* Polymorph Tempest-Smiths
+* Polymorph far Tempest-Smith
+* Focus near Tempest-Smith
 * Tank Devastator with back to wall
-* LoS Tempest-Smith into hallway after Devastator dies
 
 ### Void Reaver Pack
 * Banish Crystalcore Mechanic
-* Polymorph Tempest-Smiths
+* Polymorph 2nd Tempest-Smith
+* Focus near Tempest-Smith
 * Stack Sentinels, watch knockback
-* anged play from **max range** to avoid Arcane Explosion
+* Ranged play from **max range** to avoid Arcane Explosion
 
 ## Void Reaver (2m 25s)
 * Everyone but hunter stack inside Void Reaver
@@ -99,8 +95,8 @@ Marker | Mob | Tank | Misdirect | Notes
 -------------|--------|---------
 3 | G1, G2, G3 | On pull
 4 | G1, G2, G3 & G2 | On pull and 1m 40s in
-5 | G1, G2, G3 & G2, G3 | On pull and 1m 40s in
-6 | G1, G2, G3, G4 & G2, G3 | On pull and 1m 40s in
+5 | G1, G2, G3, G4 & G2 | On pull and 1m 40s in
+6 | G1, G2, G3, G4 & G2, G4 | On pull and 1m 40s in
 
 ## Solarian Trash
 * Astromancer Patrol
@@ -137,8 +133,53 @@ Marker | Mob | Tank | Misdirect | Notes
 
 ### Bloodlusts
 \# of shamans | Groups | Timings
--------------|--------|---------
+--------------|--------|---------
 3 | G1, G2, G3 | On pull
 4 | G1, G2, G3 & G2 | On pull and 1m 45s in
 5 | G1, G2, G3 & G2, G3 | On pull and 1m 45s in
 6 | G1, G2, G3, G4 & G2, G3 | On pull and 1m 45s in
+
+## Kael'thas Trash
+### Inquisitor Patrol
+* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25">
+* %MAGE_1% Polymorph <img src="images/moon.png" width="25" height="25">
+* Kill Inquisitor on %MT%
+
+### Blood Knight Pack (twice)
+* Focus <img src="images/skull.png" width="25" height="25"> Blood Knight on %MT%
+* <img src="images/cross.png" width="25" height="25"> Blood Knight on %OT1%
+* <img src="images/circle.png" width="25" height="25"> & <img src="images/diamond.png" width="25" height="25"> Battle Mage on %OT2%
+* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25">
+* %MAGE_1% Polymorph <img src="images/moon.png" width="25" height="25">
+
+### Kael'thas Room Pack (three)
+* Focus <img src="images/skull.png" width="25" height="25"> Blood Knight on %MT%
+* <img src="images/cross.png" width="25" height="25"> Inquisitor on %OT1%
+* %MAGE_2% Polymorph <img src="images/triangle.png" width="25" height="25">
+* Marshal on %OT2%
+    * Pull slightly out
+
+## Kael'thas
+### Phase One
+* Melee avoid stupid deaths on Thaladred
+* %WARLOCK_1% on Capernian
+
+### Weapon Phase
+* Devastation on %MT%
+* Melee kick Cosmic Infuser
+
+### Phase Two
+* Sanguinar on %MT%
+* Telonicus on %OT1%
+
+### Phase Three
+* %OT1% and %OT2% kite Pheonixes
+* Rogues and Hunters focus clearing Mind Controls
+
+### Bloodlusts
+\# of shamans | Groups | Timings
+--------------|--------|---------
+3 | G1, G2, G3 | On start of P3
+4 | G1, G2, G3 & G2 | On start of P3, and on P2
+5 | G1, G2, G3 & G2, G3 | On start of P3, and on P2
+6 | G1, G2, G3, G4 & G2, G3 | On start of P3, and on P2
