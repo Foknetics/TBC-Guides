@@ -22,7 +22,8 @@
 * Threat drop on transition **Stop DPS**
 
 
-Nature Phase Adds
+##Nature Phase Adds
+Marker | Tank
 -------|--------
 <img src="images/skull.png" width="25" height="25"> | Aegistwo
 <img src="images/skull.png" width="25" height="25"> | Aegistwo
