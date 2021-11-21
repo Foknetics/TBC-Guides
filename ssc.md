@@ -46,7 +46,7 @@ Marker | Tank
 ## Post Hydross Trash
 ### Lurker Platforms (6 platforms ~10m)
 * <img src="images/skull.png" width="25" height="25"> Vashj'ir Honor Guard on Mahakaha
-* Holo / Mallack misdirect AoE to Tankadin
+* Holo / N/A misdirect AoE to Tankadin
 * Vili / Naz misdirect AoE to Aegistwo
 * Melee Cleave off <img src="images/skull.png" width="25" height="25">
 * Tremor fear
@@ -78,7 +78,7 @@ Marker | Mob | Tank | Misdirect | Notes
 
 Focus | Healer
 ------|--------
-Tankadin | Leyla, Bearsword, Elice, Spiv
+Tankadin | Leyla, Bearsword, Elice, Pinkpants
 Raid | Stompthehoof
 
 ### Bloodlusts
@@ -93,7 +93,7 @@ Raid | Stompthehoof
 ### Serpentguard Pack
 * Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on Mahakaha
 * Sealbooper Polymorph <img src="images/triangle.png" width="25" height="25"> or <img src="images/moon.png" width="25" height="25">
-* Holo / Mallack misdirect AoE to Tankadin
+* Holo / N/A misdirect AoE to Tankadin
 * Vili / Naz misdirect AoE to Aegistwo
 * Melee focus Water Elemental Totems first
 * Watch poison cleanse while Greyheart Tidecaller is up
@@ -108,7 +108,7 @@ Raid | Stompthehoof
 ### Serpentguard Pack
 * Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on Mahakaha
 * Sealbooper Polymorph <img src="images/triangle.png" width="25" height="25"> or <img src="images/moon.png" width="25" height="25">
-* Holo / Mallack misdirect AoE to Tankadin
+* Holo / N/A misdirect AoE to Tankadin
 * Vili / Naz misdirect AoE to Aegistwo
 * Melee focus Water Elemental Totems first
 * Watch poison cleanse while Greyheart Tidecaller is up
@@ -130,13 +130,13 @@ Raid | Stompthehoof
 ### Greyheart + Lurker Pack (twice)
 * Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on Mahakaha
 * Stack for mushrooms, move with Mahakaha
-* Holo / Mallack misdirect AoE to Tankadin
+* Holo / N/A misdirect AoE to Tankadin
 * Vili / Naz misdirect AoE to Aegistwo
 
 ### Greyheart Pack
 * Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on Mahakaha
 * Stack to avoid Charge, move with Mahakaha
-* Holo / Mallack misdirect AoE to Tankadin
+* Holo / N/A misdirect AoE to Tankadin
 * Vili / Naz misdirect AoE to Aegistwo
 * Melee focus Water Elemental Totems first
 
@@ -146,13 +146,13 @@ Marker | Mob | Tank | Misdirect | Notes
 -------|-----|------|-----------|------
 <img src="images/skull.png" width="25" height="25"> | Greyheart Spellbinder | Mahakaha | Holo | N/A
 <img src="images/cross.png" width="25" height="25"> | Greyheart Spellbinder | Tankadin | Vili | N/A
-<img src="images/square.png" width="25" height="25"> | Greyheart Spellbinder | Aegistwo | Mallack | N/A
+<img src="images/square.png" width="25" height="25"> | Greyheart Spellbinder | Aegistwo | N/A | N/A
 * Pre PWS all melee
 * Melee Nightmare Seed on pull
 * Melee spread around on pull
 
 ### Phase Transition Misdirect Rotation
-Naz, Holo, Vili, Mallack
+Naz, Holo, Vili, N/A
 
 ### Human Phase (1m)
 * Ranged spread out to avoid whirlwind
@@ -180,7 +180,7 @@ Naz, Holo, Vili, Mallack
 * LoS on wall corner
 * Focus <img src="images/skull.png" width="25" height="25"> Nether-Mage on Mahakaha
 * Stack to avoid Charge, move with Mahakaha
-* Holo / Mallack misdirect AoE to Tankadin
+* Holo / N/A misdirect AoE to Tankadin
 * Vili / Naz misdirect AoE to Aegistwo
 * Melee focus Water Elemental Totems first
 
@@ -201,7 +201,7 @@ Naz, Holo, Vili, Mallack
 Marker | Mob | Tank | Misdirect | Notes
 -------|-----|------|-----------|------
 <img src="images/skull.png" width="25" height="25"> | Fathom-Guard Tidalvess | Tankadin | Holo | Windfury, big burst potential
-<img src="images/cross.png" width="25" height="25"> | Fathom-Guard Sharkkis | Aegistwo | Mallack | Summons adds
+<img src="images/cross.png" width="25" height="25"> | Fathom-Guard Sharkkis | Aegistwo | N/A | Summons adds
 <img src="images/square.png" width="25" height="25"> | Fathom-Guard-Caribdis | Saders | Vili | Interupt Heals
 Unmarked | Fathom-Lord Karathress | Mahakaha | N/A | Move out if approaching 80%
 * Kill order: Spitfire Totem, Sporebats, Lurker, Tidalvess, Sharkkis, Caribdis, Karathress
@@ -266,7 +266,7 @@ Unmarked | Fathom-Lord Karathress | Mahakaha | N/A | Move out if approaching 80%
 Quadrant | DPS | Healer
 ---------|-----|--------
 1 | Vili | Stompthehoof
-2 | Mallack | Spiv
+2 | Saders | Pinkpants
 3 | Holo | Leyla
 4 | Naz | Bearsword
 * DPS focus on killing all elementals in their quadrant and looting the tainted core
